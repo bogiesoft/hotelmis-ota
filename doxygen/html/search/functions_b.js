@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['save_5fcurrency',['Save_Currency',['../db/da6/group___a_d_m_i_n___m_a_n_a_g_e_m_e_n_t.html#gaa48d0fda25c0307d716170328c858fb7',1,'functions.php']]],
+  ['save_5fhotelsettings',['Save_HotelSettings',['../db/da6/group___a_d_m_i_n___m_a_n_a_g_e_m_e_n_t.html#ga1209e4ad3daa91186c7474cb6a54c892',1,'functions.php']]],
+  ['sess_5fclose',['sess_close',['../df/d3a/sessions_8php.html#a2df8e2d2199bd3f93fd52ee1a6d5a6b7',1,'sessions.php']]],
+  ['sess_5fdestroy',['sess_destroy',['../df/d3a/sessions_8php.html#a26ea736dec764cda4545b51e09e29d44',1,'sessions.php']]],
+  ['sess_5fgc',['sess_gc',['../df/d3a/sessions_8php.html#a33a8bfb7b65a3f09b048783ec09da7bb',1,'sessions.php']]],
+  ['sess_5fopen',['sess_open',['../df/d3a/sessions_8php.html#a489ebcf2f182417149bcff7f96fe616a',1,'sessions.php']]],
+  ['sess_5fread',['sess_read',['../df/d3a/sessions_8php.html#ae22873779eca4b09de53d558bc931e3a',1,'sessions.php']]],
+  ['sess_5fwrite',['sess_write',['../df/d3a/sessions_8php.html#a09320424fc46ff234f955843941b5282',1,'sessions.php']]],
+  ['shift_5factive',['shift_active',['../d2/d62/functions_8php.html#a2c57057641068f9afce5a8ff46ffd4ea',1,'functions.php']]],
+  ['shift_5fend',['shift_end',['../d2/d62/functions_8php.html#a8bf655bde6b01a52e53afddeb857230d',1,'functions.php']]],
+  ['shift_5flists',['shift_lists',['../d2/d62/functions_8php.html#a7d484791852b111afd4695339578f59d',1,'functions.php']]],
+  ['shift_5fstart',['shift_start',['../d2/d62/functions_8php.html#a82e86fd384b9cb319c17146d0c1478e1',1,'functions.php']]],
+  ['shift_5fstarttime',['shift_starttime',['../d2/d62/functions_8php.html#a81493ca13d35231a05722934abce4220',1,'functions.php']]],
+  ['shift_5ftimes',['shift_times',['../d2/d49/group___u_s_e_r___m_a_n_a_g_e_m_e_n_t.html#ga69383b7740f63a9246b41fb4aab09ccf',1,'functions.php']]],
+  ['signon',['signon',['../d2/d49/group___u_s_e_r___m_a_n_a_g_e_m_e_n_t.html#ga699f48e8741cad61e549d79373c729bf',1,'functions.php']]],
+  ['strip_5fspecials',['strip_specials',['../d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gae66d15dfd9f81fde94cf6f2d52f2c865',1,'queryfunctions.php']]]
+];

@@ -1,0 +1,32 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup HolidaySetupdoc Holiday Setup Administration
+ * @{
+ * 
+ * <b>A Simple Video Tutorial on How to Setup a Holiday</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/Yb3i39H5v-o?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * Holiday is used to create a room rate which contains holidays.<br/>
+ * Click the <b>"Holiday Setup"</b> menu item to view the list of holidays.<br/>
+ * <br/>
+ * <b>Buttons:</b><br/>
+ * <b>Delete:</b> To remove a record of the existing holiday<br/>
+ * <b>Add:</b> To setup a holiday<br/><br/>
+ * To add a new holiday, fill out the following information then click the <b>Add</b> button.<br/>
+ * <table>
+ * <tr><th> Field </th><th>Description </th></tr>
+ * <tr><td>Holiday Description</td><td>The description of holiday</td></tr>
+ * <tr><td>Calendar</td><td>The date of the holiday</td></tr>
+ * <br/><br/>
+ *</table>
+ *<br/>
+ * <b>The Holiday Setup Screenshot</b><br>
+ * \image html holidaysetup.jpg
+ * @} 
+ */
+ /**
+ * @}
+ */

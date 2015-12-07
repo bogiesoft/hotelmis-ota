@@ -1,0 +1,30 @@
+e-Novate Pte Ltd is a member of the OpenTravel Alliance.
+http://www.opentravel.org
+
+This software contains implementations for some of the OTA hotel messaging specification.
+To facilitate this, some of the data types values have been taken directly from the specification
+and loaded as defaults in the software.
+As this software is for small hotels and guest houses, not all types and definitions are used.
+OTA_CodeTables xmlns="http://www.opentravel.org/OTA/2003/05" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opentravel.org/OTA/2003/05 OpenTravel_CodeTable.xsd"
+
+OTA Bed types - this is a complete list of the bed types supplied as part of the OTA specification noted.
+Data is contained in the table OTA_BedTypes
+OTA_Number - the OTA specified enumeration 
+lang - language code - eg en-us
+Description - The language specific bed description.
+
+OTA Room Amenity - this is a subset of the common room amenities found in hotel rooms.
+Like the bed types is it organised by OTA_Number, lang and Description.
+Where OTA Room Amenities are required but not found, these need to be added to the database to be available.
+When adding additional OTA Room Amenities additional language definitions should also be added for supported languages
+otherwise values will always default to english.
+
+
+Language definitions.
+the Database table contains English, Korean, Chinese and Thai.
+Where unicode characters are used, the database uses the UTF-8 number versions of the characters to guarantee display
+eg &#21488;&#21271; is the unicode numbers for the word "Taipei".
+
+
+
+

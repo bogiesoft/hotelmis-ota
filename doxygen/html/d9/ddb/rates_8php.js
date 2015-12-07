@@ -1,0 +1,25 @@
+var rates_8php =
+[
+    [ "if", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga740ecdd579a7fe371dbfb018a8104c74", null ],
+    [ "$logofile", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga5594961ea6aeaac326fdea206aadd927", null ],
+    [ "$lang", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga7714b111b644017933931ec69a154102", null ],
+    [ "$ratesid", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gab8bd5ee3a4427f477c2a23344bb9c6ee", null ],
+    [ "$allowChangeRate", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gad2320378a529c48f060d2c558481ea4b", null ],
+    [ "$rateitems", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gab6d5ab7ec921600a28a3952845ef7827", null ],
+    [ "$rcount", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gabaf7cab596c41a94cfe7f9532ddb64e7", null ],
+    [ "$rooms", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga7885060478f8025f87d356f715f7b776", null ],
+    [ "$roomtypes", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gad59527e30a46fb19fc9987e101a0e407", null ],
+    [ "$syncrate", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gae2ed090855675a68dc8b0b6ce48eb1da", null ],
+    [ "$guarantees", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga324ec1ebf6253f3051044617aaaf5ca4", null ],
+    [ "$wassynced", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gaa6ff254bd65b0374a280f1afcc49056a", null ],
+    [ "$cstyle", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga8cac16a1b153e574f46c99c1c3719372", null ],
+    [ "$rstyle", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gae75a2d11b4ae544b84966f18ed44b786", null ],
+    [ "$astyle", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga5cea997b2143185291c8cb9328889338", null ],
+    [ "$bstyle", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga26179bd0c52507e7adf69a39282dcee2", null ],
+    [ "$onsubmit", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga66412226366359f6ca8fe0d374d467c3", null ],
+    [ "if", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gae2d1e1b58fcc3f2bedb32a9e2d8bc78e", null ],
+    [ "$rms", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga70ce18c3c6b7f587537f0da8fc415551", null ],
+    [ "foreach", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga307d50f4e9abeb7a23e0e7e232459877", null ],
+    [ "$rt", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga9bef835a665234fd8f3e394e7d865187", null ],
+    [ "else", "d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gac545778430e3ae70dce8c246093a4798", null ]
+];

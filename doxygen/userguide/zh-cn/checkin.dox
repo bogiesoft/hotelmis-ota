@@ -1,0 +1,28 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @defgroup ZH-CN-BookingAdmin Booking/Check In process management 
+ * \htmlinclude zhcn_regtitle.txt
+ * 
+ * @{
+ * \htmlinclude zhcn_reg1.txt
+ * <br/>
+ * <br/>
+ * \image html zhcn_reg_new.JPG
+ * <br/>
+ * \htmlinclude zhcn_reg2.txt
+ * <br/>
+ * <br/>
+ * \image html zhcn_reg_list.JPG
+ * <br/>
+ * \htmlinclude zhcn_reg3.txt
+ * <br/>
+ * <br/>
+ * \image html zhcn_reg_edit.JPG
+ * 
+ * @} 
+ */
+ /**
+  * @}
+  */

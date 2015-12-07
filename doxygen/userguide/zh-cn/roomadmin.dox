@@ -1,0 +1,21 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @defgroup ZH-CN-RoomAdmin Hotel Room Setup and Administration 
+ * \htmlinclude zhcn_rmtitle.txt
+ * @{
+ *
+ * \htmlinclude zhcn_room1.txt
+ *
+ * \image html zhcn_room_admin.JPG
+ *
+ * \htmlinclude zhcn_room2.txt
+ *
+ * \image html zhcn_room_list.JPG
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

@@ -1,0 +1,28 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup HotelAdmin Hotel Setup Administration 
+ * Branch and Licensing Requirements
+ * @{
+ * <br/>
+ * <br/><b>A Simple Video Tutorial on How to Configure a Business Details</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/XyCLOx6Yy4s?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/>
+ * Many of the fields in this setup pages are for helping with OTA specific queries.<br/>
+ * By properly filling in these fields, it will facilitate the e-Bridge search engine to locate the 
+ * hotel property, particulary with proximity to other locations.<br/>
+ * <br/>
+ *
+ *
+ * <br/>
+ * \image html hotel_setup.JPG
+ *
+ * \todo Add hotel rating - stars/keys for selection.
+ * @} 
+ */
+ /**
+  * @}
+  */

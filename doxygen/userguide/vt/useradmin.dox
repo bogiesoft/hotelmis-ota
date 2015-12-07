@@ -1,0 +1,24 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ * @defgroup VT-UserAdmin User Administration 
+ * \htmlinclude vt_usrtitle.txt
+ *
+ * @{
+ * \htmlinclude vt_user1.txt
+ * <br/>
+ * <br/>
+ * \image html vt_user_admin.JPG
+ * <br/>
+ * <br/>
+ * \htmlinclude vt_user2.txt
+ * <br/>
+ * <br/>
+ * \image html vt_user_list.JPG
+ *
+ * @}
+ */
+
+ /**
+  * @}
+  */

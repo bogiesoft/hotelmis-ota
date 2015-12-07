@@ -1,0 +1,31 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @defgroup ZH-CN-RateAdmin Rate Administration 
+ * \htmlinclude zhcn_ratetitle.txt
+ *
+ * @{
+ *
+ * \htmlinclude zhcn_rates1.txt
+ *
+ * \image html zhcn_rates_admin.JPG
+ * <br/>
+ * \image html zhcn_rates_new.JPG
+ *
+ * \htmlinclude zhcn_rates2.txt
+ *
+ * \image html zhcn_rates_items.JPG
+ *
+ * \htmlinclude zhcn_rates3.txt
+ *
+ * \image html zhcn_rates_list.JPG
+ *
+ * \htmlinclude zhcn_rates4.txt
+ *
+ * \image html zhcn_rates_std.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

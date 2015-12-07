@@ -1,0 +1,9 @@
+<b>Trademarks and Copyrights</b>
+<p>
+TravCom CS, Clientmajic are registered trademarks/copyright of Travel Computer Systems.<br>
+Microsoft, MS SQL Server, Microsoft SQL Server are registered trademark/copyright of Microsoft.<br>
+Apache is copyright and free for usage under the Apache License<br>
+PHP is copyright the PHP Group and free for usage under the Open Source License.<br>
+PHPShield is registered trademark/copyright of Inovica Ltd.<br>
+e-Novate Exchange Order Module eXO, e-Bridge is copyright e-Novate.<br>
+</p>

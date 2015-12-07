@@ -1,0 +1,236 @@
+/*This style sheet is used for most major browers - including NS4x*/
+/*The styles are commented for your convenience*/
+/*Test the style sheet in various browsers when changing any of the styles*/
+body {
+	background-color: White;
+	font: 12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: #666666;	
+margin: 0px 0px 0px 0px;
+	border: none;
+}
+
+#maincontent a:link {
+	color: #9DBC7D;
+	font: 12px Arial, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;}
+
+#maincontent a:visited {
+	color: #9DBC7D;
+	text-decoration: none;
+}
+
+#maincontent a:hover {
+	color: #2A3D3E;
+	text-decoration: none;
+}
+#maincontent a:active {
+	color: #9DBC7D;
+	text-decoration: none;
+}
+
+ #header {
+ 	background-color: White;
+ 	color: #CCCCCC;
+	/*use full url for NS4x compatibility*/
+	margin: 0px;
+ }
+ /*This specifies the background image for the header table 
+ - used this way ensures that NS4x will see the background image*/
+ .mybackground {
+  background-color: White;
+  color: #CCCCCC;
+  	/*use full url for NS4x compatibility*/
+margin: 0px;
+ }
+ 
+ #mainTable {	
+  background-color: White;
+	/*/*/line-height: 1.5em; /* */
+	/*this definition gives a nice linespacing in modern browsers*/
+ }
+ #mainTable td {
+ 	padding: 10px;
+	/*Pads each table cell in the main table in modern browsers*/
+ }
+
+ #maincontent {
+ background-color: White;
+ vertical-align: top;
+ 	border-right: 2px dotted #D5E3E3;
+ 	font-size: 12px;	/*/*/font-size: 100%; /* */
+	/*12px set for ns 4100% set for modern browser*/	
+	 }
+	  
+ #maincontent li {
+ 
+ 	/*/*/margin: 0px 0px 6px 0px; /* */
+ }
+ 
+ /*This specifies the table alignment for the demo reel and sales on the Front Page*/
+ #FrontTable td {
+	vertical-align: top;
+	text-align: left;
+	font: 16px Arial, Verdana, Geneva, Helvetica, sans-serif;
+	color: #000000 ;
+	position: relative;
+	min-width: 400px;
+ }
+ 
+ #RightFrontTable td{	 	
+	font: 20px Arial, Verdana, Geneva, Helvetica, sans-serif;
+	padding: 20px;
+	color: black;
+	position: relative;
+	min-width: 400px;
+ }
+ 
+
+  
+ /*change the width for the sidebar - right column - if so desired*/
+ #sidebar {
+ 	width: 200px;
+ 	font-size: 12px;	/*/*/font-size: 85%; /* */  
+	vertical-align: top;	
+ }
+ #navbar {
+ background: #D5E3E3;
+ 	/*use full url for NS4x compatibility*/
+ background-repeat: repeat-y;
+ }
+ #navbar td {
+ background: #D5E3E3;
+ 	/*use full url for NS4x compatibility*/
+ background-repeat: repeat-y;
+ }
+
+ #navbartable {
+ margin-top: 50px;
+ }
+  
+ #footer {
+ 	background-color: #669999;
+ 	color: White;
+	padding: 5px 5px;
+}
+#footer a:link {
+	color: White;
+	font: 12px Arial, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+
+#footer a:visited {
+	color: White;
+	font: 12px Arial, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+
+#footer a:hover {
+	color: #2A3D3E;
+	font: 12px Arial, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: none;
+}
+#footer a:active {
+	color: White;
+	font: 12px Arial, Verdana, Geneva, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+
+ #copyright {
+ 	background-color: White;
+	font-size: 10px;
+	/*/*/font-size: 160%; /* */  
+ 	color: #CC6666;
+ padding-top: 15px;
+ }
+  
+ td, p, ul,ol {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ }
+ 
+  th{
+	color: #000000;
+	font-size: 13px;
+ }
+ 
+ tr.highlight {
+  background-color: #AFA;
+}
+ 
+ #maincontent ul {
+ 	/*/*/padding-left: 1em;
+ 	margin-left: 2em;
+ 	list-style-type: circle; /* */
+	/*hide the list-style definition from NS4  can cause problems */
+ }
+ 
+ h1 {
+ 	color: #568585;
+	font-size: 14px;	
+ }
+ 
+ h2{
+ 	color: #CC6666;
+	font-size:13px;
+ }
+ 
+h3{
+ 	color: #476B6B;
+	font-size: 12px;
+ }
+h4 {
+ 	color: #996666;
+	font-size: 13px;
+ }
+.style1 {color: #000000} 
+table.c6 {background-color: #66CCCC}
+table.c16 {background-color: White}
+tr.c5 {background-color: #66CCCC}
+input.c4 {cursor:pointer}
+td.c3 {background-color: white}
+td.c2 {background-color: #66CCCC}
+table.c1 {background-color: white}
+ 
+.btn {
+  border-style: solid;
+  border-width : 1px 1px 1px 1px;
+  text-decoration : none;
+  padding : 3px;
+  background:#E3E3E3;
+  border: 1px solid #696969;
+  border-radius: 2px 2px 2px 2px;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12px; 
+  color: #000000;
+}
+
+.btn2 {
+  border-style: solid;
+  border-width : 1px 1px 1px 1px;
+  text-decoration : none;
+  padding : 5px;
+  background:#E3E3E3;
+  border: 1px solid #808080;
+  border-radius: 2px 2px 2px 2px;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 12px; 
+  color: #000000;
+}
+
+/* CSS FOR REGISTRATION FORM TO PRINT*/
+.showprint{
+  display:none;
+}
+
+.box{
+  border-style: solid;
+  border-radius: 0px;
+  border-width : 1px 1px 1px 1px;
+ padding-left: 5px;
+ 
+ 
+}
+
+.tab{
+  padding: 0 10px;
+}

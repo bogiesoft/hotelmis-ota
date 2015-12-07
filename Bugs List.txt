@@ -1,0 +1,21 @@
+01. Add Calender function on Main Page
+	a. Active Check-in shown on specific time
+	b. Active Check-out shown on specific time
+02. Fix to convert html utf-8 entities for use in javascript
+03. Updates for checkout in calender with Room #
+04. Fix Departure Date title in Reservation list page
+05. Update calender to set firstHour to current
+06. Fix no data shown in Night # column bug to add row of ['no_nights']
+07. Update KO Doxygen
+08. Update ZHCN Doxygen
+09. Update VT Doxygen
+10. Fix search function in Guests list page
+11. Fix search function in Rates list page
+12. Fix search function in Rooms list page
+13. Fix Agents list bug
+14. Fix search function in Agent list page
+15. Fix Guests update function bug
+16. Fix 'add user' and 'update user' bugs
+17. Fix search function in User list page
+18. Fix delete bug so that able to delete user if it's not admin id
+19. Fix invoice no. auto increase bug if click update button

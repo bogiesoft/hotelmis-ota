@@ -1,0 +1,11 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @addtogroup KO-Architecture 
+ * 
+ * @{
+ * \htmlinclude ko_architecture.txt
+ * @}
+ * @}
+ */

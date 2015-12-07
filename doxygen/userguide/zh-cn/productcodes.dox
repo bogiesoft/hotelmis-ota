@@ -1,0 +1,21 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @addtogroup ZH-CN-HotelAdmin
+ * @{
+ * @defgroup ZH-CN-ProductAdmin Hotel Product/Service Administration 
+ * \htmlinclude zhcn_pctitle.txt
+ *
+ * @{
+ *
+ * \htmlinclude zhcn_pcodes.txt
+ *
+ * \image html zhcn_product_codes.JPG
+ *
+ * @} 
+ * @} 
+ */
+/**
+ * @}
+ */

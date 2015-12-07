@@ -1,0 +1,24 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ * @defgroup ZH-CN-UserAdmin User Administration 
+ * \htmlinclude zhcn_usrtitle.txt
+ *
+ * @{
+ * \htmlinclude zhcn_user1.txt
+ * <br/>
+ * <br/>
+ * \image html zhcn_user_admin.JPG
+ * <br/>
+ * <br/>
+ * \htmlinclude zhcn_user2.txt
+ * <br/>
+ * <br/>
+ * \image html zhcn_user_list.JPG
+ *
+ * @}
+ */
+
+ /**
+  * @}
+  */

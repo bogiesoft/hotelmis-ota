@@ -1,0 +1,64 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ * @defgroup UserAdmin User Administration 
+ * User Accounts, Passwords and Permission Management
+ *
+ * @{
+ * <b> A Simple Video Tutorial on How to Setup Another System User</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/2CFUJo3Bctc?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * Administration for add/edit users for the OTA Hotel Management software<br/>
+ * <br/>
+ * <table>
+ * <tr><th>Field</th><th>Description</th></tr>
+ * <tr><td>System ID</td><td>Automatically allocated</td></tr>
+ * <tr><td>Registered date</td><td>Automatically set on user addition</td></tr>
+ * <tr><td>User Login</td><td>User name for login</td></tr>
+ * <tr><td>Password</td><td>Password for the login</td></tr>
+ * <tr><td>First Name</td><td>User's first name</td></tr>
+ * <tr><td>Family Name</td><td>User's last name/family name</td></tr>
+ * <tr><td>Telephone</td><td>Telephone number</td></tr>
+ * <tr><td>Mobile</td><td>Mobile number</td></tr>
+ * <tr><td>Fax</td><td>Fax number</td></tr>
+ * <tr><td>Email</td><td>Email Address</td></tr> 
+ * <tr><td colspan=2>Access Rights</td></tr>
+ * <tr><td>Administrator</td><td>Hotel setup</td></tr>
+ * <tr><td>Guest</td><td>Guest Profiles setup</td></tr>
+ * <tr><td>Reservation</td><td>Access right to reservation</td></tr>
+ * <tr><td>Check In</td><td>Access right to Check in module</td></tr>
+ * <tr><td>Agents</td><td>Access right to Agents module</td></tr>
+ * <tr><td>Rooms</td><td>Access right to rooms</td></tr>
+ * <tr><td>Billing/Invoicing</td><td>Access right to Billing/invoicing module</td></tr>
+ * <tr><td>Rates</td><td>Access right to rates administration</td></tr>
+ * <tr><td>Lookup</td><td>Access right to lookup</td></tr>
+ * <tr><td>Reports</td><td>Access right to reports</td></tr>
+ * </table>
+ *
+ * <br/>
+ * \image html user_admin.JPG
+ * <br/>
+ * <b>Users List</b><br/>
+ * Click the <b>Users List</b> button to go to the list of all users.<br/>
+ * Select the magnifying glass icon beside the specific user to view/edit the user.<br/>
+ * Select the waste basket icon to delete the user.<br/>
+ * Can search here by user name or user ID.<br/>
+ * <b>Note Well:</b> If you delete users with reservations,registrations or invoices against their accounts then 
+ * these items will not display correctly when printing. It is recommended to change the user password so that
+ * the user can no longer connect instead of deleting the account <br/>
+ * <br/>
+ * <br/>
+ * \image html user_list.JPG
+ *
+ * \todo Add in active/inactive option
+ * \todo Add in Password confirmation and javascript to check
+ * \todo Check for unique username - no reuse.
+ * @}
+ */
+
+ /**
+  * @}
+  */

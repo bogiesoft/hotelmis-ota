@@ -1,0 +1,21 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @addtogroup VT-HotelAdmin
+ * @{
+ * @defgroup VT-ProductAdmin Hotel Product/Service Administration 
+ * \htmlinclude vt_pctitle.txt
+ *
+ * @{
+ *
+ * \htmlinclude vt_pcodes.txt
+ *
+ * \image html vt_product_codes.JPG
+ *
+ * @} 
+ * @} 
+ */
+/**
+ * @}
+ */

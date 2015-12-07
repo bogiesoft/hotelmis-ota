@@ -1,0 +1,49 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup AgentAdmin Travel Agent Administration 
+ * Manage Travel Agents in the OTA Hotel database.
+ * @{
+ * <b> A Simple Video Tutorial on How to Setup a Travel Agent </b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/RwX6olaj7qE?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * The information of a travel agent shown in a table below with fields and description.
+ * <table>
+ * <tr><th> Field </th><th>Description </th></tr>
+ * <tr><td>Agent ID</td><td>Agent ID</td></tr>
+ * <tr><td>Agent IATA</td><td>IATA or unique business number assigned agency </td></tr>
+ * <tr><td>Agent Name</td><td>Agency business name</td></tr>
+ * <tr><td>Contact Name</td><td>Person to contact at Agency</td></tr>
+ * <tr><td>Telephone</td><td>Telephone</td></tr>
+ * <tr><td>Fax</td><td></td>Fax</tr>
+ * <tr><td>e-Bridge ID</td><td>e-Novate e-Bridge connection ID</td></tr>
+ * <tr><td>Skype/IM ID</td><td>Instant messager or VOIP ID</td></tr>
+ * <tr><td>E-Mail</td><td>Email Address</td></tr>
+ * <tr><td>Billing Address</td><td>Postal address of correspondence</td></tr>
+ * <tr><td>City</td><td>City</td></tr>
+ * <tr><td>Country</td><td>Country</td></tr>
+ * <tr><td>Postal Code</td><td>Postal Code</td></tr>
+ * <tr><td>Building</td><td>Building</td></tr>
+ * <tr><td>Road/Street</td><td>Road or Street address</td></tr>
+ * </table>
+ * <br/>
+ * The view/update screen for travel agencies.<br/>
+ * Select the <b>Agents List</b> button on the right to view the agent list.<br/>
+ * <br/>
+ * \image html agent_admin.JPG
+ * 
+ * In order to facilitate transactions created by Travel Agencies, and also to process commission
+ * rebate to travel agencies, each agency must be known to the OTA Hotel software.<br/>
+ * Select the magnifying glass icon beside the agent IATA to view/edit the travel agent.<br/>
+ * Use the search criteria in the right panel to find agents, by name or by IATA number.<br/>
+ *
+ * <br/>
+ * \image html agent_list.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

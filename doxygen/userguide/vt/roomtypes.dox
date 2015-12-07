@@ -1,0 +1,17 @@
+/**
+ * @addtogroup VT-RoomAdmin
+ * @{
+ *
+ * @defgroup VT-RoomTypes Hotel Room Type Setup 
+ * \htmlinclude vt_rmttitle.txt
+ * @{
+ * \htmlinclude vt_roomtypes.txt
+ * <br/>
+ * \image html vt_room_types.JPG
+ *
+ * 
+ * @} 
+ */
+ /**
+  * @}
+  */

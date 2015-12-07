@@ -1,0 +1,22 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-AgentAdmin Travel Agent Administration 
+ * \htmlinclude ko_agttitle.txt
+ * @{
+ * \htmlinclude ko_agent1.txt
+ * <br/>
+ * \image html ko_agent_admin.JPG
+ * <br/>
+ * <br/>
+ * \htmlinclude ko_agent2.txt
+ * <br/>
+ * <br/>
+ *
+ * \image html ko_agent_list.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

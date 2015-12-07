@@ -1,0 +1,92 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup RateAdmin Rate Administration 
+ * Manage rates stored in the OTA Hotel database.
+ *
+ * @{
+ * <b> A Simple Video Tutorial on How to Setup a Default Room Rate</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/KU8tRt9dl_o?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * <b> A Simple Video Tutorial on How to Setup a Promotional Room Rate</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/wA3rVPQwCko?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * Every reservation and booking requires a booking rate be associated with the transaction.<br/>
+ * If the booking rate is not specified, then the default rate for the room will be applied.<br/>
+ * Default rates only apply to room items, all other items must have charge rate appled at time of adding to invoice <br/>
+ * The rate administration is divided into 2 sections, rate information and rate item pricing.<br/>
+ * When adding a new rate, only the rate information is available.<br/> 
+ * Only after the rate information is added and saved can the rate item pricing be added.<br/>
+ * <table>
+ * <tr><th>Field</th><th>Description</th></tr>
+ * <tr><td>Rate Code</td><td>Alphanumeric code entered by hotel to identify rate</td></tr>
+ * <tr><td>Rate ID</td><td>Readonly - generated when rate is added</td></tr>
+ * <tr><td>Description</td><td>Description of the Rate Code</td></tr>
+ * <tr><td>Start</td><td>First date of validity for the Rate </td></tr>
+ * <tr><td>End</td><td>Last date of validity for the Rate</td></tr>
+ * <tr><td>Rate Type</td><td>Default, Promotion, Customer, Agent</td></tr>
+ * <tr><td>Room #</td><td>For Promotion, Customer, Agent rates that apply to specific rooms</td></tr>
+ * <tr><td>Room Type</td><td>For Promotion, Customer, Agent rates apply to room types</td></tr>
+ * <tr><td>Customer</td><td>Shows if Rate Type is customer. Customer E-Bridge Id for customers rates</td></tr>
+ * <tr><td>Agents</td><td>Shows if Rate Type is agent. Agent name for agent rates</td></tr>
+ * <tr><td>Booking Source</td><td>The source of booking where the rate code is applicable</td></tr>
+ * <tr><td>Currency</td><td>The Currency of the rate code</td></tr>
+ * <tr><td>Occupancy</td><td> Options of single, double or family </td></tr>
+ * <tr><td>Minimum Person</td><td>Minimum number of person for this rate</td></tr>
+ * <tr><td>Maximum Person</td><td>Maximum number of person this rate can be used</td></tr>
+ * <tr><td>Minimum Nights</td><td>Minimum number of nights for this rate</td></tr>
+ * <tr><td>Maximum Nights</td><td>Maximum number of nights this rate can be used</td></tr>
+ * <tr><td>Min Adv Res</td><td>Minimum advanced reservation</td></tr>
+ * </table>
+ * <br/>
+ * Press the <b>Add Rate</b> button to save the rate information to enable addition of rate item prices.<br/>
+ * <b>Screenshot of a default Rate Type</b><br/>
+ * \image html rates_admin.JPG
+ * <br/>
+ * <b>Screenshot of an agent Rate Type</b><br/>
+ * \image html rates_new.JPG
+ * <br/>
+ * Each rate has rate items associated for pricing and packaging.
+ * For a promotional, customer or agent rate every product code or item will be available for selection.<br/>
+ * For default rates, only room product code or item can be selected.<br/>
+ * Items cannot be editted, only deleted and re-added to the rate. <br/>
+ * <br/>
+ * <table>
+ * <tr><th>Field</th><th>Description</th></tr>
+ * <tr><td>Product</td><td>See product type documentation or "Hotel Product/Service Administration"</td></tr>
+ * <tr><td>Pricing</td><td>Standard, Fixed, Percentage, Included</td></tr>
+ * <tr><td>Amount</td><td>The amount of the rate</td></tr>
+ * <tr><td>Inc. Fees</td><td>Services Fees or Taxes are included in pricing</td></tr>
+ * <tr><td>Days</td><td>Days of week, Weekend is Saturday/Sunday, All is every day</td></tr>
+ * <tr><td>Months</td><td>Which months of year</td></tr>
+ * <tr><td>Holiday</td><td>Select if holiday is included</td></tr>
+ * <tr><td>Max Count</td><td>Maximum number item can be purchased at this rate in a given day</td></tr>
+ * </table>
+ * <br/>
+ * <br/>
+ * \image html rates_items.JPG
+ * <br/>
+ * <b> Rate List</b><br/>
+ * Select the <b>Rates List</b> button to go to the list of all the rates. <br/>
+ * Click the magnifying glass icon beside a specific rate to view/edit that rate.<br/>
+ * <br/>
+ * \image html rates_list.JPG
+ * <br/>
+ * <b> Standard Rates </b><br/>
+ * Every room has a standard rate charge, the standard rate is for the room only. The pull down will only allow the
+ * selection of product codes or items if the rate type is Promotion, Agent, Customer and Fee.<br/>
+ * 
+ * \image html rates_std.JPG
+ * @} 
+ */
+/**
+ * The pull down will only allow the selection of the room type product codes.<br/>
+ * @}
+ */

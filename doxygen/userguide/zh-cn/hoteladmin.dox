@@ -1,0 +1,18 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @defgroup ZH-CN-HotelAdmin Hotel Setup Administration 
+ * \htmlinclude zhcn_admintitle.txt
+ * @{
+ * \htmlinclude zhcn_admin1.txt
+ *
+ * <br/>
+ * \image html zhcn_hotel_setup.JPG
+ *
+ * \todo Add hotel rating - stars/keys for selection.
+ * @} 
+ */
+ /**
+  * @}
+  */

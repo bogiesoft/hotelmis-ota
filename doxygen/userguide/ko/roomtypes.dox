@@ -1,0 +1,17 @@
+/**
+ * @addtogroup KO-RoomAdmin
+ * @{
+ *
+ * @defgroup KO-RoomTypes Hotel Room Type Setup 
+ * \htmlinclude ko_rmttitle.txt
+ * @{
+ * \htmlinclude ko_roomtypes.txt
+ * <br/>
+ * \image html ko_room_types.JPG
+ *
+ * 
+ * @} 
+ */
+ /**
+  * @}
+  */

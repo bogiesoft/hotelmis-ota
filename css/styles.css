@@ -1,0 +1,257 @@
+body {
+	font: 12px Verdana, Geneva, Arial, Helvetica, sans-serif;	
+	margin: 0px 0px 0px 0px;
+	border: none;
+}
+.plainDropDown{
+	width:145px;
+	font-size:11px;
+}
+.plainDropDown2{
+	width:75px;
+	font-size:11px;
+}
+.plainSelectList{
+	width:250px;
+	font-size:11px;
+}
+.plainButton {
+	font-size:11px;	
+}
+.detailDropDown {
+	width:400px;
+	font-size:11px;	
+	height:20px;
+}
+.detailDropDown2 {
+	width:400px;
+	font-size:11px;	
+	height:60px;
+}
+.narrowDropDown{
+	width:16px;
+	font-size:11px;
+	-moz-max-content:16px;
+	-moz-appearance: menuimage;
+}
+.errors{ 
+	font-size:10px;
+	color:#FF0000;
+}
+.mandatory{
+	font-style:italic; 
+	color:#FF0000;
+}
+.notes{
+	font-style:italic; 
+	color:#FF0000;
+}
+.tableheader{
+	background-color: #3593de;
+	color:#000000; 
+}
+tr.row1 td {
+    background-color: #CCCCCC;
+}
+tr.row2 td {
+    background-color: #E7E7E7;
+}
+.blanket {
+	position: absolute;
+	visibility: hidden;
+	opacity: 0.60;
+	filter: alpha(opacity = 60);
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+	background-color: #111;	
+}
+.layer1{
+	position: absolute;
+	visibility: hidden;
+	width: 570px;
+	height: 200px;
+	left: 250px;
+	top: 15px;
+	background-color: #ccc;
+	border: 1px solid #000;
+	padding: 0px;	
+}
+
+.layer2{
+	visibility: hidden;
+	width: 570px;
+	height: 200px;
+ 	position:absolute;
+	left: 250px;
+	top: 15px;
+    background-color: #ccc;
+    border: 1px solid #000;	
+	padding: 0px;
+}
+.layer3{
+  	visibility: hidden;
+	width: 570px;
+	height: 100px;
+ 	position:absolute;
+	left: 250px;
+	top: 15px;
+    background-color: #ccc;
+    border: 1px solid #000;	
+	padding: 0px;	
+}
+.layer4{
+  	visibility: hidden;
+	width: 450px;
+	height: 200px;
+ 	position:absolute;
+	left: 250px;
+	top: 15px;
+    background-color: #ccc;
+    border: 1px solid #000;	
+	padding: 0px;	
+}
+table.fixed { table-layout:fixed; }
+
+div.scroll {
+    
+    width: 100%;
+    height: 350px;
+    overflow: auto;
+}
+
+div.bottombtn{
+	  position: relative;
+	  right:10px;
+	  top: 20px;
+	 
+}
+
+div.bottombtnadd{
+	  position: relative;
+	  right:10px;
+    top: 127px;
+}
+div.bottombtndoc{
+	  position: relative;
+	  right:10px;
+    top: 119px;
+}
+div.bottombtnemail{
+	  position: relative;
+	  right:10px;
+    top: 133px;
+}
+div.bottombtnphone{
+	  position: relative;
+	  right:10px;
+    top: 140px;
+}
+
+
+
+
+.image img {
+-webkit-transition: all 0.1s ease; /* Safari and Chrome */
+-moz-transition: all 0.1s ease; /* Firefox */
+-ms-transition: all 0.1s ease; /* IE 9 */
+-o-transition: all 0.1s ease; /* Opera */
+transition: all 0.1s ease;
+margin: 0;
+width: 150px;
+height: 100t-transition: all 0.1s easepx;
+padding: 0px 0px;
+background: #BABABD;
+border:1px solid #42A2ED; border-right:solid 1px #42A2ED;	
+}
+.imageres img {
+/*-webkit-transition: all 0.1s ease; /* Safari and Chrome */
+/*-moz-transition: all 0.1s ease; /* Firefox */
+/*-ms-transition: all 0.1s ease; /* IE 9 */
+/*-o-transition: all 0.1s ease; /* Opera */
+/*transition: all 0.1s ease;*/
+margin: 0;
+width: 100px;
+height: 100px;
+padding: 0px 0px;
+background: #BABABD;
+border:1px solid #42A2ED; border-right:solid 1px #42A2ED;
+}
+
+.image:hover img {
+-webkit-transform:scale(2.0); /* Safari and Chrome */
+-moz-transform:scale(2.0); /* Firefox */
+ -ms-transform:scale(2.0); /* IE 9 */
+ -o-transform:scale(2.0); /* Opera */
+ transform:scale(2.0);
+}
+
+ul.enlarge{
+list-style-type:none; /*remove the bullet point*/
+margin-left:0;
+}
+ul.enlarge li{
+display:inline-block; /*places the images in a line*/
+position: relative;
+z-index: 0; /*resets the stack order of the list items - later we'll increase this*/
+margin:0px 0px 0 0px;
+}
+ul.enlarge img{
+background-color:#D4DFEA;
+padding: 0px;
+-webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+-moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+-webkit-border-radius: 4px; 
+-moz-border-radius: 4px; 
+border-radius: 4px; 
+}
+ul.enlarge span{
+position:absolute;
+left: -9999px;
+background-color:#D4DFEA;
+padding: 10px;
+font-family: 'Droid Sans', sans-serif;
+font-size:1em;
+text-align: center; 
+color: #495a62;
+width: 200%;
+ 
+-webkit-box-shadow: 0 0 20px rgba(0,0,0, .75));
+-moz-box-shadow: 0 0 20px rgba(0,0,0, .75);
+box-shadow: 0 0 20px rgba(0,0,0, .75);
+-webkit-border-radius: 8px; 
+-moz-border-radius: 8px; 
+border-radius:8px;
+}
+ul.enlarge li:hover{
+z-index: 50;
+cursor:pointer;
+}
+ul.enlarge span img{
+padding 10px;
+background:#ccc;
+}
+ul.enlarge li:hover span{ 
+top: 0px; /*the distance from the bottom of the thumbnail to the top of the popup image*/
+left: 0px; /*distance from the left of the thumbnail to the left of the popup image*/
+}
+ul.enlarge li:hover:nth-child(2) span{
+left: -100px; 
+}
+ul.enlarge li:hover:nth-child(3) span{
+left: -200px; 
+}
+/**IE Hacks - see http://css3pie.com/ for more info on how to use CS3Pie and to download the latest version**/
+ul.enlarge img, ul.enlarge span{
+behavior: url(pie/PIE.htc); 
+}
+
+.enlarge{
+padding: 0px 0px;
+}		
+
+ul {
+font: 12px Helvetica, Arial, sans-serif;
+}

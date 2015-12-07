@@ -1,0 +1,22 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup Exportinvoice Export Invoices to Excel
+ * @{
+ * <b>A video Tutorial on How to Export Invoices and Receipts to Spreadsheet like Excel.</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/2WO3WYvRxh8?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * <b>Export Invoice to Spreadsheet</b><br/>
+ * Click the <b>"Export Invoice"</b> menu item to go in export invoices page.<br/>
+ * Select the start and end date for the date range of the invoices that you want to export in spreadsheet like Excel.<br/>
+ * When the field is complete, click the <b>Download</b> button. <br/>
+ * Once the file has downloaded completely, the spreadsheet file can now be open and it will show the list of invoices and receipts for the selected date range. <br/><br/>
+ * \image html export_page.jpg
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

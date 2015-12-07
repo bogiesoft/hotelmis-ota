@@ -1,0 +1,18 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-GuestAdmin Guest Profile Administration 
+ * \htmlinclude vt_gsttitle.txt
+ * @{
+ * \htmlinclude vt_guest1.txt
+ * <br/>
+ * \image html vt_guest_new.JPG
+ * \htmlinclude vt_guest2.txt
+ * <br/>
+ * \image html vt_guest_list.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

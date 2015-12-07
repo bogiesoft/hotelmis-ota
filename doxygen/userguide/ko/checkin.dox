@@ -1,0 +1,28 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-BookingAdmin Booking/Check In process management 
+ * \htmlinclude ko_regtitle.txt
+ * 
+ * @{
+ * \htmlinclude ko_reg1.txt
+ * <br/>
+ * <br/>
+ * \image html ko_reg_new.JPG
+ * <br/>
+ * \htmlinclude ko_reg2.txt
+ * <br/>
+ * <br/>
+ * \image html ko_reg_list.JPG
+ * <br/>
+ * \htmlinclude ko_reg3.txt
+ * <br/>
+ * <br/>
+ * \image html ko_reg_edit.JPG
+ * 
+ * @} 
+ */
+ /**
+  * @}
+  */

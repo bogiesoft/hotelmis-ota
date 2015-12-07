@@ -1,0 +1,76 @@
+<p>
+&#272;&#234;&#777; ca&#768;i &#273;&#259;&#803;t ph&#226;&#768;n m&#234;&#768;m kha&#769;ch sa&#803;n &#273;a&#803;i ly&#769; du li&#803;ch tr&#432;&#803;c tuy&#234;&#769;n c&#226;&#769;u hi&#768;nh sau &#273;&#226;y &#273;&#432;&#417;&#803;c h&#244;&#771; tr&#417;&#803;
+<br/>
+<b>WAMP</b><br/>
+<ul>
+<li> <b>W</b>indows </li>
+<li> <b>A</b>pache </li>
+<li> <b>M</b>ysql </li>
+<li> <b>P</b>HP </li>
+</ul>
+or <br/>
+ <b>LAMP</b><br/>
+<ul>
+<li> <b>L</b>inux </li>
+<li> <b>A</b>pache </li>
+<li> <b>M</b>ysql </li>
+<li> <b>P</b>HP </li>
+</ul>
+<br/>
+&#25353;&#29031;&#23433;&#35013;&#21644;&#35774;&#32622;&#20102;Apache/ PHP&#32593;&#31449;http://www.apache.org&#21644;http://www.php.net&#20102;&#24744;&#30340;LAMP/WAMP&#26381;&#21153;&#22120;<br/>
+<br/>
+S&#7917; d&#7909;ng c&#244;ng c&#7909; qu&#7843;n tr&#7883; mysql t&#7841;o ra m&#7897;t c&#417; s&#7903; d&#7919; li&#7879;u &#273;&#432;&#7907;c g&#7885;i l&#224; hotelmis
+<br/>
+T&#7841;o c&#417; s&#7903; d&#7919; li&#7879;u v&#224; d&#7919; li&#7879;u ph&#242;ng m&#7851;u b&#7857;ng c&#225;ch s&#7917; d&#7909;ng hotelmis.sql
+<br/>
+T&#7841;o m&#7897;t v&#237; d&#7909; ng&#432;&#7901;i s&#7917; d&#7909;ng c&#417; s&#7903; d&#7919; li&#7879;u hotelmis / hotelmis
+<br/>
+</p>
+<p>
+<br/>
+<br/>
+B&#226;y gi&#7901; ch&#7881;nh s&#7917;a c&#225;c configuration.inc.php
+<br/>
+Thi&#7871;t l&#7853;p c&#225;c &#273;&#7883;nh ngh&#297;a cho USER, DB v&#224; m&#7853;t kh&#7849;u tr&#234;n m&#225;y ch&#7911; l&#432;u tr&#7919; MySQL, ch&#7841;y hotelmis.sql v&#224; t&#7841;o ra c&#225;c b&#7843;ng c&#417; s&#7903; d&#7919; li&#7879;u v&#224; c&#225;c d&#7919; li&#7879;u ban &#273;&#7847;u.
+<br/>
+<br/>
+Ta&#768;i khoa&#777;n m&#259;&#803;c &#273;i&#803;nh la&#768; "admin" va&#768;  m&#226;&#803;t kh&#226;&#777;u la&#768; "password"
+<br/>
+<br/>
+
+S&#7917;a &#273;&#7893;i c&#225;c t&#7853;p tin configuration.inc.php v&#224; thi&#7871;t l&#7853;p c&#225;c &#273;&#7883;nh ngh&#297;a:
+<br/>
+<br/>
+HOST l&#224; IP hay t&#234;n m&#225;y c&#417; s&#7903; d&#7919; li&#7879;u mysql &#273;&#432;&#7907;c c&#224;i &#273;&#7863;t.
+<br/>
+define("HOST", "localhost");<br/>
+<br/>
+PORT l&#224; s&#7889; &#7893; c&#7855;m, m&#7863;c &#273;&#7883;nh l&#224; 3306 x&#225;c &#273;
+<br/>
+define("PORT", 3306); <br/>
+<br/> 
+USER l&#224; &#273;&#259;ng nh&#7853;p v&#224;o c&#417; s&#7903; d&#7919; li&#7879;u mysql
+<br/>
+define("USER", "hotelmis"); <br/>
+<br/>
+PASS l&#224; m&#7853;t kh&#7849;u &#273;&#7875; ng&#432;&#7901;i s&#7917; d&#7909;ng x&#225;c &#273;
+<br/>
+define("PASS", "hotelmis"); <br/>
+<br/>
+DB l&#224; t&#234;n c&#417; s&#7903; d&#7919; li&#7879;u x&#225;c &#273;
+<br/>
+define("DB", "hotelmis"); <br/>
+<br/>
+DEBUG bi&#7871;n tr&#234;n m&#7897;t s&#7889; th&#244;ng tin in debug
+<br/>
+define("DEBUG", 0); <br/>
+<br/>
+TAXPCT l&#224; t&#7927; l&#7879; ph&#7847;n tr&#259;m m&#7863;c &#273;&#7883;nh &#273;&#7875; t&#237;nh to&#225;n x&#225;c &#273;
+<br/>
+define("TAXPCT", 7); <br/>
+<br/>
+SVCPCT l&#224; t&#7927; l&#7879; ph&#7847;n tr&#259;m d&#7883;ch v&#7909; cho c&#225;c ph&#237; d&#7883;ch v&#7909; x&#225;c &#273;
+<br/>
+define("SVCPCT", 10); <br/>
+<br/>
+</p>

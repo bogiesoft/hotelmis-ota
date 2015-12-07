@@ -1,0 +1,26 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-ResAdmin Hotel Reservation processing
+ * \htmlinclude ko_restitle.txt
+ * @{
+ * 
+ * \htmlinclude ko_resman1.txt
+ * <br/>
+ * 
+ * \image html ko_res_new.JPG
+ *
+ *
+ * \htmlinclude ko_resman2.txt
+ * <br/>
+ * 
+ * \image html ko_res_list.JPG
+ * <br/>
+ * <br/>
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

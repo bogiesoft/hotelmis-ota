@@ -1,0 +1,21 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-RoomAdmin Hotel Room Setup and Administration 
+ * \htmlinclude vt_rmtitle.txt
+ * @{
+ *
+ * \htmlinclude vt_room1.txt
+ *
+ * \image html vt_room_admin.JPG
+ *
+ * \htmlinclude vt_room2.txt
+ *
+ * \image html vt_room_list.JPG
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

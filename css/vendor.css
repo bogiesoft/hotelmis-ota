@@ -1,0 +1,101 @@
+div.vendor_popup { z-index: 1; }
+
+div.vendor_popup div.menu_form_header
+{
+  border: 1px solid black;
+  border-bottom: none;
+
+  width: 280px;
+
+  height:      20px;
+  line-height: 19px;
+  vertical-align: middle;
+  color:#ffffff;
+
+  background: rgb(119,194,255); /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(119,194,255,1) 0%, rgba(57,150,225,1) 12%, rgba(0,99,178,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(119,194,255,1)), color-stop(12%,rgba(57,150,225,1)), color-stop(100%,rgba(0,99,178,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* W3C */
+  
+
+  text-decoration: none;
+  font-family: Times New Roman, Serif;
+  font-weight: 900;
+  font-size:  13px;
+  cursor:  default;
+}
+
+div.vendor_popup div.menu_form_body
+{
+  width: 280px;
+  border: 1px solid black;
+  background-color: #e9eefa;
+}
+
+div.vendor_popup img.menu_form_exit
+{
+  float:  right;
+  margin: 4px 5px 0px 0px;
+  cursor: pointer;
+}
+
+div.vendor_popup table
+{
+  width: 90%;
+  border-collapse: collapse;
+}
+
+div.vendor_popup th
+{
+  width: 1%;
+  padding: 0px 5px 1px 0px;
+
+  text-align: left;
+
+  font-family: Times New Roman, Serif;
+  font-weight: 900;
+  font-size:  13px;
+  color:   #004060;
+}
+
+div.vendor_popup td
+{
+  width: 95%;
+  padding: 0px 0px 1px 0px;
+}
+
+div.vendor_popup form
+{
+  margin:  0px;
+  padding: 8px 10px 10px 10px;
+}
+
+div.vendor_popup input.field
+{
+  
+  border: 1px solid #808080;
+
+  font-family: Verdana, Sans-Serif;
+  font-size: 10px;
+}
+
+div.vendor_popup input.btn
+{
+  margin-top: 2px;
+  border: 1px solid #808080;
+  color:#ffffff;
+
+  background: rgb(119,194,255); /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(119,194,255,1) 0%, rgba(57,150,225,1) 12%, rgba(0,99,178,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(119,194,255,1)), color-stop(12%,rgba(57,150,225,1)), color-stop(100%,rgba(0,99,178,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(119,194,255,1) 0%,rgba(57,150,225,1) 12%,rgba(0,99,178,1) 100%); /* W3C */
+
+  font-family: Verdana, Sans-Serif;
+  font-size: 11px;
+}

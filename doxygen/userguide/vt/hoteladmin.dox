@@ -1,0 +1,18 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-HotelAdmin Hotel Setup Administration 
+ * \htmlinclude vt_admintitle.txt
+ * @{
+ * \htmlinclude vt_admin1.txt
+ *
+ * <br/>
+ * \image html vt_hotel_setup.JPG
+ *
+ * \todo Add hotel rating - stars/keys for selection.
+ * @} 
+ */
+ /**
+  * @}
+  */

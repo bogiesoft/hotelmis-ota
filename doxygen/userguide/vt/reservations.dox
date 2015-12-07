@@ -1,0 +1,26 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-ResAdmin Hotel Reservation processing
+ * \htmlinclude vt_restitle.txt
+ * @{
+ * 
+ * \htmlinclude vt_resman1.txt
+ * <br/>
+ * 
+ * \image html vt_res_new.JPG
+ *
+ *
+ * \htmlinclude vt_resman2.txt
+ * <br/>
+ * 
+ * \image html vt_res_list.JPG
+ * <br/>
+ * <br/>
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

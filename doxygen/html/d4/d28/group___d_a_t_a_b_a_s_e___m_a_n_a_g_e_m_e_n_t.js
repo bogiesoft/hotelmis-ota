@@ -1,0 +1,27 @@
+var group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t =
+[
+    [ "strip_specials", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gae66d15dfd9f81fde94cf6f2d52f2c865", null ],
+    [ "utf8_javascript", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga67f5c079c3e0f8f9ed84aa2d7285e2f7", null ],
+    [ "load_language", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga729ac8585c59bb03d8509feeba3a61d7", null ],
+    [ "connect_Hotel_db", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gacc068f264fcb979e1116c1c642aea3a9", null ],
+    [ "disconnect_Hotel_db", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga51b6a90ec0403ae122bdfd636732dd14", null ],
+    [ "get_db_error", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gad5eb28c3b5cde1af3f41393cf358c033", null ],
+    [ "get_db_error_str", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gae65055db3b8dcd766c009b0676168f88", null ],
+    [ "get_datemask", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga46a5fb22ca099615f2c2ac549166b910", null ],
+    [ "date_to_dbformat", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga6d375b5d6a8477bf4608c1092a88165d", null ],
+    [ "HOST", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga6768772c01f2d4f111fabd25012e8259", null ],
+    [ "PORT", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gab9a2d2c70deaf0f75cf0ee531f6ed0b5", null ],
+    [ "USER", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga1bbff5b87a1e3a8d402d50c9fdb4e6e9", null ],
+    [ "PASS", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga721e0e48b7536b275be96f3018324f28", null ],
+    [ "DB", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga002c9e0914e76f1d582bcd6a51299ea2", null ],
+    [ "DEBUG", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga758c150b67e476ecf77478f16b387c61", null ],
+    [ "TAXPCT", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga446b052a3b942d8b8c37709286f693b5", null ],
+    [ "SVCPCT", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gad99e07b180e09a768835e91411ad5531", null ],
+    [ "TIMEZONE", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga3b995106e56056d23337454d7a6866e4", null ],
+    [ "IATAEBRIDGE", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga435fbc871d3126d47dbf2294d65b1082", null ],
+    [ "NEXTDAY_CUTOFF", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#gaa7fd7232ebd917f2276fc13fb2f3f015", null ],
+    [ "GROUP_BY_ROOMTYPERATE", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga57afb5f04f5c143c8337d0423e722bb2", null ],
+    [ "DEFAULT_ROOMCODE", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga355af5b630658482432d42506eb4e595", null ],
+    [ "CHECKIN", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga812cec09a146f196c2995dfea1c802db", null ],
+    [ "CHECKOUT", "d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga5a2c81b83cec6eeea52904ef9c61ec3c", null ]
+];

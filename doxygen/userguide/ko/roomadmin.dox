@@ -1,0 +1,21 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-RoomAdmin Hotel Room Setup and Administration 
+ * \htmlinclude ko_rmtitle.txt
+ * @{
+ *
+ * \htmlinclude ko_room1.txt
+ *
+ * \image html ko_room_admin.JPG
+ *
+ * \htmlinclude ko_room2.txt
+ *
+ * \image html ko_room_list.JPG
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

@@ -1,0 +1,21 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @addtogroup KO-HotelAdmin
+ * @{
+ * @defgroup KO-ProductAdmin Hotel Product/Service Administration 
+ * \htmlinclude ko_pctitle.txt
+ *
+ * @{
+ *
+ * \htmlinclude ko_pcodes.txt
+ *
+ * \image html ko_product_codes.JPG
+ *
+ * @} 
+ * @} 
+ */
+/**
+ * @}
+ */

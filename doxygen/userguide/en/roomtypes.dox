@@ -1,0 +1,35 @@
+/**
+ * @addtogroup EnRoomAdmin
+ * @{
+ *
+ * @defgroup RoomTypes Hotel Room Type Setup 
+ * Room Types setup for the OTA Hotel database
+ * @{
+ * <b> A Simple Video Tutorial on How to Setup a Room Type</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/a_gYGm_OFfg?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * The OTA specification does not create standard room types, these are Hotel specific. Room types are a collection of the 
+ * standard list of amenity and bed types which are defined by the OTA.<br/>
+ * A room type is a collection of rooms, every room can have a room type, but rooms themselves may have different OTA
+ * amenities specified, it is up to the hotelier to correctly classify which room type a room belongs to.<br/>
+ * <br/>
+ * <table>
+ * <tr><th>Field</th><th>Description</th></tr>
+ * <tr><td>Room type </td><td>Free form name of room type, used in OTA messages </td></tr>
+ * <tr><td>Description</td><td>Short description of room</td></tr>
+ * <tr><td>Default Rate</td><td>Default charge rate to use when reservations are made by room type </td></tr>
+ * <tr><td>URL</td><td>Image URL of the Room Type </td></tr>
+ * </table>
+ * <br/>
+ * <br/>
+ * \image html room_types.JPG
+ *
+ * 
+ * @} 
+ */
+ /**
+  * @}
+  */

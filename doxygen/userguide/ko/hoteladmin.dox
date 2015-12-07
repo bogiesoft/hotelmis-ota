@@ -1,0 +1,18 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-HotelAdmin Hotel Setup Administration 
+ * \htmlinclude ko_admintitle.txt
+ * @{
+ * \htmlinclude ko_admin1.txt
+ *
+ * <br/>
+ * \image html ko_hotel_setup.JPG
+ *
+ * \todo Add hotel rating - stars/keys for selection.
+ * @} 
+ */
+ /**
+  * @}
+  */

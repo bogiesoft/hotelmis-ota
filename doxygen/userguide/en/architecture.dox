@@ -1,0 +1,76 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @addtogroup Architecture 
+ * 
+ * @{
+ * <b>Architecture </b>
+ * <p>
+ * The OTA Hotel program is a simple web based hotel inventory management system.<br/>
+ * The software is opensource available for private and commercial use for no cost.<br/>
+ * <br/>
+ * The OTA Hotel program is protected by GPL.<br/>
+ * <br/>
+ * The OTA Hotel program is was re-developed from the original opensource program HotelMIS, however very little of the original source code remains.<br/>
+ * The OTA Hotel program was created to work as a test platform for the e-Novate Pte Ltd e-Bridge software which uses the Open Travel Alliance messaging specification.<br/>
+ * As such the OTA Hotel program calls into a commercially protected library produced by e-Novate Pte Ltd.<br/>
+ * This library can be used by free of any license fee for any hotel, software development company where the end user of the software uses the e-Novate Pte Ltd e-Bridge service to provide an online interface for reservations.<br/>
+ * <br/>
+ * The e-Novate Pte Ltd e-Bridge software solution is a low cost connectivity and presence solution allowing the generic interaction for Business to Business (B2B) and Business to Customer (B2C) applications.<br/>
+ * For more information about the e-Bridge product, please contact e-Novate at sales@e-novate.asia<br/>
+ * <br/>
+ * <b>FREE ONLINE HOTEL BOOKING SOLUTION for OTA Hotel users </b><br/>
+ * <br/>
+ * Users of the OTA Hotel software will be eligible for a no establishment fee sign up and free access online reservation site that will directly connect to the OTA Hotel software.<br/>
+ * This is a new service designed to be low cost allowing all levels of hotels to compete online and in the mobile market.<br/>
+ * This product is due for full release before end 2011<br/>
+ * </p>
+ * <p>
+ * The OTA Hotel is a simple 2 tier architecture, with a database server and the webserver hosting the php pages.<br/>
+ * </p>
+ * <b>Code Layout</b><br/>
+ * <p>
+ * The code is divided into functions and pages.<br/>
+ * The primary function files are :<br/>
+ * <ul>
+ * 	<li> configuration.inc.php - configuration definitions </li>
+ * 	<li> hotel_defs.php  - constants </li>
+ * 	<li> login_check.inc.php - simple login verification function (from origin hotelmis) </li>
+ * 	<li> lookupfunctions.php </li>
+ * 	<li> queryfunctions.php - database query formatting functions </li>
+ * 	<li> functions.php - primary list of functions for operation</li>
+ * 	<li> webtoPDF.php - conversion and launch of html to PDF functions </li>
+ * </ul>
+ * <p>
+ * All other php files should directly output html and display the hotel pages.<br/>
+ * </p>
+ * <b>Language - Translation</b> <br/>
+ * <p>
+ * At the beginning of every php page file there are 3 lines of code.
+ * include_once("lang/lang_en.php");<br/>
+ * $lang = get_language();<br/>
+ * load_language($lang);<br/>
+ * <br/>
+ * These 3 lines of code ensure that at least the english language pack is loaded for each web page.<br/>
+ * These should be in the beginning of every file to ensure correct language portability.<br/>
+ * <br/>
+ * The language setting is set in the database via the hotel setup page with the list of available languages in the <i>languages</i> table.
+ * To add a language, the languages table must be modified, example.
+ * </p>
+ * <p>
+ * <b>lang</b> - international language code<br/>
+ * <b>Description</b> - English description<br/>
+ * <b>LocalDescription</b> - UTF-8 encoded language version <br/>
+ * <b>active</b> - 0 available but not selectable, 1 active and language file exists<br/>
+ * <br/>
+ * INSERT INTO `languages`(`lang`,`Description`,`LocalDescription`,`active`) VALUES ( 'my','Myanmar (Burmese)','Myanmar (Burmese)','0');<br/>
+ * </p>
+ * <p>
+ * To create a new language file, copy the lang/lang_en.php to be be lang/lang_&lt;langauge code&gt;.php then edit the file.<br/>
+ * Update the database and set the active status to 1, then the language can be set from the hotel setup page.
+ * </p>
+ *
+ * @}
+ * @}
+ */

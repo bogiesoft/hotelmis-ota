@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS dbcount FROM information_schema.tables WHERE table_schema = 'hotelmis' AND table_name = 'version';

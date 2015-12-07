@@ -1,0 +1,20 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-InvoiceAdmin Billing/Invoice Administration 
+ * \htmlinclude vt_billtitle.txt
+ * @{
+ * \htmlinclude vt_bill1.txt
+ * <br/>
+ * \image html vt_billing.JPG
+ * <br/>
+ * \htmlinclude vt_bill2.txt
+ * <br/>
+ *
+ * \image html vt_billing_edit.JPG
+ * @} 
+ */
+ /**
+  * @}
+  */

@@ -1,0 +1,18 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @defgroup ZH-CN-GuestAdmin Guest Profile Administration 
+ * \htmlinclude zhcn_gsttitle.txt
+ * @{
+ * \htmlinclude zhcn_guest1.txt
+ * <br/>
+ * \image html zhcn_guest_new.JPG
+ * \htmlinclude zhcn_guest2.txt
+ * <br/>
+ * \image html zhcn_guest_list.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

@@ -1,0 +1,22 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @defgroup ZH-CN-AgentAdmin Travel Agent Administration 
+ * \htmlinclude zhcn_agttitle.txt
+ * @{
+ * \htmlinclude zhcn_agent1.txt
+ * <br/>
+ * \image html zhcn_agent_admin.JPG
+ * <br/>
+ * <br/>
+ * \htmlinclude zhcn_agent2.txt
+ * <br/>
+ * <br/>
+ *
+ * \image html zhcn_agent_list.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

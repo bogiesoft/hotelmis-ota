@@ -1,0 +1,31 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-RateAdmin Rate Administration 
+ * \htmlinclude ko_ratetitle.txt
+ *
+ * @{
+ *
+ * \htmlinclude ko_rates1.txt
+ *
+ * \image html ko_rates_admin.JPG
+ * <br/>
+ * \image html ko_rates_new.JPG
+ *
+ * \htmlinclude ko_rates2.txt
+ *
+ * \image html ko_rates_items.JPG
+ *
+ * \htmlinclude ko_rates3.txt
+ *
+ * \image html ko_rates_list.JPG
+ *
+ * \htmlinclude ko_rates4.txt
+ *
+ * \image html ko_rates_std.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

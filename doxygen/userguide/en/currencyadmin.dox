@@ -1,0 +1,23 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup currencyadmin Currency Administration
+ * @{
+ * <br/>
+ * <br/><b>A Simple Video Tutorial on How to Setup a Currency</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/beccHbOJOOY?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/>
+ *
+ * To add a currency, click the <b>"Currency Setup"</b> Menu item.<br/>
+ * Select the Country, enter the currency and click the <b>Save</b> button.<br/><br/>
+ * The new currency will display in the Package Setup and can select as the currency of the Package.<br/>
+ * \image html currency.jpg
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

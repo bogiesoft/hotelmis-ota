@@ -1,0 +1,11 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @addtogroup VT-Architecture 
+ * 
+ * @{
+ * \htmlinclude vt_architecture.txt
+ * @}
+ * @}
+ */

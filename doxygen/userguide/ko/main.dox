@@ -1,0 +1,40 @@
+/** 
+ * @addtogroup KO
+ * @{
+ * @defgroup KO-UserGuide Korean User Guide for OTA Hotel
+ * @{
+ * 
+ */
+/** 
+ * @defgroup KO-Architecture Architecture
+ * Introduction to OTA Hotel Architecture
+ * @{
+ *
+ * @} 
+ */
+/** 
+ * @defgroup KO-Trademarks Trademarks and Copyrights
+ * @{
+ * \htmlinclude trademarks.txt
+ * @defgroup KO-ebridge e-Novate Pte Ltd software
+ * License for proprietary software supplied by e-Novate Pte Ltd
+ * @{
+ * \htmlinclude userguide\EULA.txt
+ * @} 
+ * @defgroup KO-GPL GPL License for OTA Hotel Opensource software
+ * @{
+ * \htmlinclude GPL.txt
+ * @} 
+ * @}
+ */
+/**
+ * @defgroup KO-SystemInstall System Install and Setup
+ * @{
+ * 
+ * @} 
+ */
+
+ /**
+ * @}
+ * @} 
+ */

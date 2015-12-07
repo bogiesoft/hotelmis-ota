@@ -1,0 +1,21 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @defgroup ZH-CN-InvoiceAdmin Billing/Invoice Administration 
+ * \htmlinclude zhcn_billtitle.txt
+ * @{
+ * \htmlinclude zhcn_bill1.txt
+ * <br/>
+ * \image html zhcn_billing.JPG
+ * <br/>
+ * \htmlinclude zhcn_bill2.txt
+ * <br/>
+ *
+ * \image html zhcn_billing_edit.JPG
+ * @todo make the list invoices button work.
+ * @} 
+ */
+ /**
+  * @}
+  */

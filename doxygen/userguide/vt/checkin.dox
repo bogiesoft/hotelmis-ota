@@ -1,0 +1,28 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-BookingAdmin Booking/Check In process management 
+ * \htmlinclude vt_regtitle.txt
+ * 
+ * @{
+ * \htmlinclude vt_reg1.txt
+ * <br/>
+ * <br/>
+ * \image html vt_reg_new.JPG
+ * <br/>
+ * \htmlinclude vt_reg2.txt
+ * <br/>
+ * <br/>
+ * \image html vt_reg_list.JPG
+ * <br/>
+ * \htmlinclude vt_reg3.txt
+ * <br/>
+ * <br/>
+ * \image html vt_reg_edit.JPG
+ * 
+ * @} 
+ */
+ /**
+  * @}
+  */

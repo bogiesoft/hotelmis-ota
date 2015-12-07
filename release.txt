@@ -1,0 +1,65 @@
+13 May 2014 0.16.
+	- General bug fixes
+	- add email alerts for online bookings via e-Bridge
+	- fix online bookings min advanced day search for e-Bridge
+	- fix reserved hotel rooms from being shown in available list in e-Bridge online requests.
+1 April 2014 0.15.
+	- General bug fixes
+	- Add PDF support 
+	- Increase email white list
+	- add youtube videos to doxygent
+	- 
+1 December 2013 0.14.866	
+	- General bug fixes
+	- fix php alerts
+	- fix billing page
+	- cancellation support for online bookings from e-Bridge
+29 October 2013 0.13.785
+	- General bug fixes
+	- Rates: Not allowing to change the the rate type if the rate type is "Default" and if it is already being used.
+23 Septemper 2013	
+	- Fix the summary page on reservations/bookings to work for all rate types
+	- Fix the reservation page to clear data on update when changing between rate id, room type and rate type.
+09 Septemper 2013 0.12.773
+	-Fix the initial setup wizard
+29 August 2013 0.11.755
+	- General bug fixes
+	- Fixed the billing to accept cash payment
+01 August 2013 0.10.741
+	- General bug fixes
+	- Add in Export Invoice page
+	- Add in Currency and Exchange Rate to Billing/Invoice page
+	- The "IATAEBRIDGE" will be added to the configuration.inc.php file in the next release.	 
+	  Adding IATAEBRIDGE to the configuration.inc.php is optional.
+	  Set the IATAEBRIDGE to 1 to validate Agent IATA number against the ebridge id.  
+	  Set the IATAEBRIDGE to 0 if No Validation is required.	  
+	  To add this configuration, edit the hotelmis/configuration.inc.php and type the bellow line.		
+	  define ("IATAEBRIDGE", 1);
+01 February 2013 0.7.x
+	- General bug fixes
+	- Add in admin pages to support OTA_HotelDescriptiveInfoRQ/RS details
+	- Add in country code and better amenity support for OTA 
+15 June 2012 0.6.x 
+	- General bug fixes
+	- Additional language files
+07 May 2012 0.5.x 
+	- General bug fixes
+26 August 2011 0.4.426 - by ZHAO, Chen
+	- General bug fixes
+	- Add more status of reservations and registerations and update status properly
+	- Add drop list to select each status and output the list
+	- Add/Update Search functionality on each list page
+01 August 2011 0.3.389
+	- Updates for Korean, Simplified Chinese and Vietnamese documentation
+	- General bug fixes
+	- Update for main page calendar check in/out
+	- Add options for rates list search
+23 June 2011 0.2.310
+	- updates for korean and simplified chinese language packs
+	- add in invoice print preview
+	- add in auto calculation of room rates
+	- add in rate calculator
+	- add in auto calculation of tax and service fees and configuration definitions
+14 June 2011 0.1.300 Alpha release
+	- initial release for users to try workflow.
+	- limited functionality and documentation

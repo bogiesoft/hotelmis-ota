@@ -1,0 +1,56 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup EnRoomAdmin Hotel Room Setup and Administration 
+ * Room setup for the OTA Hotel database
+ * @{
+ * <b> A Simple Video Tutorial on How to Setup a Room</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/0PTN5L_uKs0?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * <b> Note: </b> <br/>
+ * For Guest Houses with dorm rooms and individual sold beds, setup each room as a room type and each bed as a room of that room type.
+ * <br/><br/>
+ * The administration screen for adding/editing room and the items contained.<br/>
+ * Each room can specify up to 4 OTA described beds, and define the OTA amenities contained in the room.<br/>
+ * These amenities will be used when running OTA queries.<br/>
+ * <table>
+ * <tr><th>Field</th><th>Description</th></tr>
+ * <tr><td>Room #</td><td> Room number</td></tr>
+ * <tr><td>Room Type</td><td>See Room types documentation</td></tr>
+ * <tr><td>Other Rate</td><td>Rate to use when specific room is reserved</td></tr>
+ * <tr><td>Room Name</td><td>The name of the room</td></tr>
+ * <tr><td>No. of rooms</td><td>Number of rooms</td></tr>
+ * <tr><td>Bed #</td><td>Number of beds in the room/suite</td></tr>
+ * <tr><td>Bed 1</td><td>OTA bed 1 type</td></tr>
+ * <tr><td>Bed 2</td><td>OTA bed 2 type</td></tr>
+ * <tr><td>Bed 3</td><td>OTA bed 3 type</td></tr>
+ * <tr><td>Bed 4</td><td>OTA bed 4 type</td></tr>
+ * <tr><td>Occupancy</td><td>Number of guests in room/suite</td></tr>
+ * <tr><td>Room Amenities</td><td>Add and delete the amenities in the room</td></tr>
+ * <tr><td>Status</td><td>Vacant, Reserved, Occupied, Unavailable</td></tr>
+ * <tr><td>Image URL</td><td>Not currently working</td></tr>
+ * </table>
+ * <br/>
+ * \image html room_admin.JPG
+ * <br/>
+ * <br/>
+ * <b> Room List </b><br/>
+ * Click the <b>Rooms List</b> button on the right to go to the Room List.<br/>
+ * Select the magnifying glass icon beside a specific room to view/edit that room.<br/>
+ * Can search here by Room # or Room Type.<br/>
+ * <br/>
+ * \image html room_list.JPG
+ *
+ * \todo Fix photograph upload
+ * \todo Fix occupancy to be pulldown 1- 50
+ * \todo Add Lock/Unlock icons for room released.
+ * \todo Add Cleaning icon for room finished cleaning and is vacant.
+ * @} 
+ */
+ /**
+  * @}
+  */

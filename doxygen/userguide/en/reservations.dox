@@ -1,0 +1,83 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup ResAdmin Hotel Reservation Process
+ * Reservation management and processing for OTA Hotel
+ * @{
+ * <b>A Simple Video Tutorial on How to Create a Reservation with an Existing Customer Profile.</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/WoWdqgQYj40?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * <b>A Simple Video Tutorial on How to Create a Reservation in a New Customer.</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/1H02poKwc3k?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * <b>A Simple Video Tutorial on How to Create a Multiple Room Reservation</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/Tr7YdE5NQA0?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+ * Every reservation must have a valid guest profile assigned.<br/>
+ * By default times are set to 14:00 (2pm) check in and 10:00 (10am) check out, this can be altered by
+ * selecting the calendar icon and modifying the time from the calendar popup window.<br/>
+ * The window on the right side will reflect the summary of the information for the registration and rates applied.<br/>
+ * <br/>
+ * <table>
+ * <tr><th>Field</th><th>Description</th></tr>
+ * <tr><td>Voucher No.</td><td>Automatically populated</td></tr>
+ * <tr><td>Status</td><td>Quote, Active, Cancelled, Expired, Void, Check In, Check Out, Cancellation Requested</td></tr>
+ * <tr><td>Source</td><td>Where the reservation request originated from (Telephone, At Desk, Letter, Online, Agent)</td></tr>
+ * <tr><td>Agent Name and ID</td><td>Shows if source is agent. Travel Agent that created the reservation</td></tr>
+ * <tr><td>Guest Name</td><td>Name of Guest or select from pulldown to auto-populate details</td></tr>
+ * <tr><td>Telephone (1)</td><td>Guest telephone number (auto populated with guest selection)</td></tr>
+ * <tr><td>Made By</td><td>Name of person making the reservation if not the guest</td></tr> 
+ * <tr><td>Telephone (2)</td><td>Telephone number of reservation requestor</td></tr>
+ * <tr><td>Arrival Date</td><td>Check In date used in billing calculations</td></tr>
+ * <tr><td>Departure Date</td><td>Check Out date used in billing calculations</td></tr>
+ * <tr><td>Nights #</td><td>Number of nights(auto-calculated using the Arrival Date and Departure Date)</td></tr>
+ * <tr><td>Adults #</td><td>Number of Adult guest</td></tr>
+ * <tr><td>Infant 1-5#</td><td>Number of Infant</td></tr>
+ * <tr><td>Child 6-12#</td><td>Number of Child(Assume everyone over 12 is Adult charge)</td></tr>
+ * <tr><td>Babies #</td><td>Number of Babies</td></tr>
+ * <tr><td>Guest #</td><td>Auto-calculated from Adult, child and baby counts</td></tr>
+ * <tr><td>Rate Code</td><td>Selector for which rate to use, specific room, room type or promotion code</td></tr>
+ * <tr><td>Room Type</td><td>Room type requested</td></tr>
+ * <tr><td>Room #</td><td>Final room registered</td></tr>
+ * <tr><td>Instructions</td><td>Notes</td></tr>
+ * <tr><td>Address</td><td>Populated from guest profile</td></tr>
+ * <tr><td>Email</td><td>Populated from guest profile</td></tr>
+ * <tr><td>Document #</td><td>Assume to be passport if new guest</td></tr> 
+ * <tr><td>Pay in advance</td><td>If customer will pay in advance</td></tr>
+ * <tr><td>FOP</td><td>Form Of Payment(cash, credit card or others)</td></tr>
+ * <tr><td>Select Type</td><td>Type of card</td></tr>
+ * <tr><td>CVV</td><td>Card Verification Value</td></tr>
+ * <tr><td>Amount</td><td>Amount customer pays</td></tr>
+ * <tr><td>CC#</td><td>Card number used for guarantee</td></tr>
+ * <tr><td>Exp</td><td>Card expiry date</td></tr>
+ * <tr><td>Confirm Reservation</td><td>Select to confirm a reservation, status will auto change to Active</td></tr>
+ * </table> 
+ * <br/>
+ * \image html res_new.JPG
+ * <br/>
+ * <b> Reservation List </b><br/>
+ * Click the <b>List</b> button to go to the Reservation List.<br/>
+ * Can search here by status, by arrival/departure dates, by guest name or by voucher number. <br/>
+ * Select the magnifying glass icon beside a specific reservation to open and view/edit that reservation.<br/>
+ * Select the bed icon to check in a reservation and go from reservation to guest registration/check in.<br/>
+ * Select the open door icon to go directly to invoicing - in case of cancellation fees etc.<br/>
+ * Select the dust bin icon to delete the reservation.<br/>
+ * \image html res_list.JPG
+ * <br/>
+ * <br/>
+ *
+ * @} 
+ */
+ /**
+  * @}
+  */

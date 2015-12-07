@@ -1,0 +1,22 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-AgentAdmin Travel Agent Administration 
+ * \htmlinclude vt_agttitle.txt
+ * @{
+ * \htmlinclude vt_agent1.txt
+ * <br/>
+ * \image html vt_agent_admin.JPG
+ * <br/>
+ * <br/>
+ * \htmlinclude vt_agent2.txt
+ * <br/>
+ * <br/>
+ *
+ * \image html vt_agent_list.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

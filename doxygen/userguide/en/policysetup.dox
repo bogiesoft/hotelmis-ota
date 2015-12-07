@@ -1,0 +1,35 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup PolicySetupAdmin Policy Setup Administration
+ * @{
+ * <b>A Video Tutorial on How to Setup a Policy</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/JpMey_FUXWs?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/> 
+ * To add a new policy,
+ * click the <b>"Policy"</b> menu item.<br/>
+ * Fill out the following information then click the <b>Add Policy</b> button on the right.
+ * <table>
+ * <tr><th> Field </th><th> Description </th></tr>
+ * <tr><td> Policy ID</td><td>Alphanumeric code entered by hotel to identify the policy</td></tr>
+ * <tr><td> Policy Title</td><td>Policy title</td></tr>
+ * <tr><td> Rate ID</td><td>Select a Room Rate that applies this policy</td></tr>
+ * <tr><td> Policy Description</td><td>Description of the policy</td></tr>
+ * <tr><td> Language</td><td>Language</td></tr> 
+ * </table>
+ * <br/>
+ * <b>A Screenshot of Adding a Policy</b> <br/>
+ * \image html policy_new.jpg <br/>
+ * <br/>
+ * To view the list of policy,
+ * click the <b>Policy List</b> button.<br/><br/>
+ * <b>A Screenshot of the List of Policy</b><br/>
+ * \image html policy_list.jpg
+ * <br/>
+ * @} 
+ */
+ /**
+ * @}
+ */

@@ -1,0 +1,70 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @addtogroup SystemInstall 
+ * 
+ * @{
+ *  To install the OTA Hotel software the following configurations are supported.<br/>
+ *  <b>WAMP</b><br/>
+ * <ul>
+ * <li> <b>W</b>indows </li>
+ * <li> <b>A</b>pache </li>
+ * <li> <b>M</b>ysql </li>
+ * <li> <b>P</b>HP </li>
+ * </ul>
+ * or <br/>
+ *  <b>LAMP</b><br/>
+ * <ul>
+ * <li> <b>L</b>inux </li>
+ * <li> <b>A</b>pache </li>
+ * <li> <b>M</b>ysql </li>
+ * <li> <b>P</b>HP </li>
+ * </ul>
+ * <br/>
+ * Install and setup the your LAMP/WAMP server as per the apache/php websites http://www.apache.org and http://www.php.net <br/>
+ * <br/>
+ * Using the mysqladmin tool create a database called hotelmis<br/>
+ * Create the database and sample room data using hotelmis.sql<br/>
+ * Create a database user eg hotelmis/hotelmis<br/>
+ * <br/>
+ * <br/>
+ * Now edit the configuration.inc.php<br/>
+ * Set the defines for <b>DB</b>, <b>USER</b> and <b>PASSWORD</b>
+ * 
+ * On the host MySQL server, run the hotelmis.sql and create the database tables and initial data.<br/>
+ * <br/>
+ * Default account is "admin" password "password"<br/>
+ * <br/>
+ * 
+ * Modify the configuration.inc.php file and set the definitions: <br/>
+ * <br/>
+ * HOST is the IP or hostname where the mysql database is installed.<br/>
+ * define("HOST", "localhost");<br/>
+ * <br/>
+ * PORT is the socket number, default is 3306 <br/>
+ * define("PORT", 3306); <br/>
+ * <br/> 
+ * USER is the login to the mysql database <br/>
+ * define("USER", "hotelmis"); <br/>
+ * <br/>
+ * PASS is the password to the user<br/>
+ * define("PASS", "hotelmis"); <br/>
+ * <br/>
+ * DB is the database name <br/>
+ * define("DB", "hotelmis"); <br/>
+ * <br/>
+ * DEBUG turns on some debug printing informatin <br/>
+ * define("DEBUG", 0); <br/>
+ * <br/>
+ * TAXPCT is the default percentage for tax calculations<br/>
+ * define("TAXPCT", 7); <br/>
+ * <br/>
+ * SVCPCT is the service percentage for service fees <br/>
+ * define("SVCPCT", 10); <br/>
+ * <br/>
+ * @} 
+ */
+ /**
+  * @}
+  */

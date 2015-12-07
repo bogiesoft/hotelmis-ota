@@ -1,0 +1,45 @@
+INSTALL NOTES.
+
+This software requires an existing installation of a Linux/Apache/MySQL/PHP (LAMP)
+or Windows/Apache/MySQL/PHP (WAMP) server
+
+To get a ready to use setup of a WAMP server, download 
+http://www.e-novate.com.sg/downloads/WAMP.zip
+
+Extract the files and run the WAMP.bat file, use the default install for all options.
+This will install a WAMP server into C:\WAMP on the local computer.
+
+
+Steps:
+1) Copy Hotel MIS file to path location htdocs directory of tha Apache installation
+	eg C:\WAMP\Apache Software Foundation\Apache2.2\htdocs\
+	
+2) Modify the configuration.inc.php file and set the following
+/** MySQL hostname or IP address */
+define("HOST", "127.0.0.1");
+/** MySQL Database port number - if it is the same or default port used in the MySQL driver configuration*/
+define("PORT", 3306);
+/** MySQL database user name for database - default hotelmis */
+define("USER", "hotelmis");
+/** MySQL database password for user name - default hotelmis */
+define("PASS", "hotelmis");
+/** MySQL database name - default hotelmis */
+define("DB", "hotelmis");
+/** Default Tax percentage */
+define("TAXPCT", 7);
+/** Default service charge percentage */
+define("SVCPCT", 10);
+/** TimeZone Information for local hotel
+ * @see http://www.php.net/manual/en/timezones.php
+ */
+define ("TIMEZONE", "Asia/Singapore");
+
+3) On the host MySQL server, run the hotelmis.sql and create the database tables and initial data.
+   The MySQL administrator account and password is required for this operation.
+   This will create the default database hotelmis, user hotelmis/hotelmis and all tables and default data.
+   
+	mysql --user=<user> --password=<password> < hotelmis.sql
+
+
+4) Hotel MIS log-in default account is "admin" password "password"
+

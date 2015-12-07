@@ -1,0 +1,25 @@
+UPGRADE NOTES INSTALL NOTES.
+
+Upgrade of OTA Hotel is currently only partially automated.
+It can be done via the Windows Installer downloadable from Sourceforge, or via the setup webpage.
+
+http://localhost/hotelmis/setup/index.php
+
+Or
+Setup commands can be run manually from the SQL patches directory.
+
+In my sql check the version table to see what your current f
+
+On the host MySQL server, run the patches sql in the patches directory.
+The MySQL administrator account and password is required for this operation.
+   
+	mysql --user=<user> --password=<password> < patches\MIS_DB_Update_VM.N.sql
+
+Where M is the major number from the version info
+and N is the minor number from the version info matching your current version.
+
+This will take your current version of the database and upgrade to the next version.
+
+Repeat the process for all patch files with higher major and minor numbers to bring you
+to the current patch level.
+

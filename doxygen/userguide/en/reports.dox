@@ -1,0 +1,140 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup ReportAdmin Hotel Report Administration
+ * Reports for the OTA Hotel database
+ * @{
+ * <b> Hotel Holiday Report </b><br/>
+ * <b>A Simple Video Tutorial on How to Generate a Hotel Holiday Report</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/gQ8fJhxnYbk?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * This report generates the hotel holidays report on the calendar year that was being setup by the hotel.<br/>
+ * The report will display the holidays of the setup in the system which helps hotel take note while setting up promotional rates for holidays.<br/><br/>
+ * To generate a Hotel Holiday Report:<br/>
+ *	1.Select a specific date range then,<br/>
+ *	2.Click the <b>Show Result</b> button.<br/>
+ * All the holidays for the specific year will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Hotel Holiday Report</b><br/>
+ * \image html Holidayreport.jpg
+ * <br/><br/>
+ * <b> Hotel Guest Report </b><br/>
+ * <b>A Simple Video Tutorial on How to Generate a Hotel Guest Report</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/9_xSRnrMzzI?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * This report generates the guest names on the specific search dates input in the system.<br/>
+ * The report will display the Guest Name, Check In, Check Out, Invoice Number.<br/>
+ * This helps hotels track the number of guest stayed during the specified time.<br/>
+ * To generate a Hotel Guest Report:<br/>
+ *	1.Select a specific date range then,<br/>
+ *  2.Select the status of the reservation then,<br/>
+ *	3.Click the <b>Show Result</b> button.<br/>
+ * All the Hotel Guest report for the specific date range and status will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Hotel Guest Report</b><br/>
+ * \image html Guestreport.jpg
+ * <br/><br/>
+ * <b> Hotel Online Booking Report </b><br/>
+ * <b>A Simple Video Tutorial on How to Generate a Hotel Online Booking Report</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/9qCDrXvDdBg?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * This report generates the number of online booking made from their hotel website via the e-bridge booking engine. <br/>
+ * This helps the hotel keep track and know the number of booking they are receiving from their own website via online booking.<br/>
+ * To generate a Hotel Online Booking Report:<br/>
+ *	1.Select a specific date range then,<br/>
+ *	2.Click the <b>Show Result</b> button.<br/>
+ * All the Hotel Online Booking report for the specific date range will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Hotel Online Booking Report</b><br/>
+ * \image html OnlineBookingReport.jpg
+ * <br/><br/>  
+ * <b> Hotel Room Report </b><br/>
+ * <b>A Simple Video Tutorial on How to Generate a Hotel Room Report</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/iv_6OfdmBCk?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * This report generates the hotel room availability on the specific search dates input in the system.<br/>
+ * This helps the hotel keep track and assign the correct hotel for their guest for upcoming stays with them.<br/>
+ * To generate a Hotel Room Report:<br/>
+ *	1.Select a specific date range then,<br/>
+ *	2.Click the <b>Show Result</b> button.<br/>
+ * All the Hotel Room report for the specific date range will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Hotel Room Report</b><br/>
+ * \image html RoomReport.jpg
+ * <br/><br/> 
+ * <b> Hotel Receipt Inventory Report </b><br/>
+ * <b>A Simple Video Tutorial on How to Generate a Hotel Receipt Inventory Report</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/U1GNmlCQyKM?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * This report generates the list of receipts created in the system within the specified search datetime criteria.<br/>
+ * This helps the hotel keep track of the receipts that were generated in the system. This will show all the receipts created, who created and total per currency if applicable within the period.<br/>
+ * To generate a Hotel Receipt Inventory Report:<br/>
+ *	1.Select a specific date range then,<br/>
+ *  2.Select if result will be the Receipt Date, Posting Date or Summary.<br/>
+ *	3.Click the <b>Show Result</b> button.<br/>
+ * All the Hotel Receipt Inventory Report for the specific date range will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Receipt Inventory Report</b><br/>
+ * \image html ReceiptInventory.jpg
+ * <br/><br/>
+ * <b> Room Usablity Report </b><br/>
+ * <b>A Simple Video Tutorial on How to Generate a Room Usability Report</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/xLZPTfQ8LHI?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * This report generates the room type usability percentage within the specific search datetime criteria. <br/>
+ * This helps the hotel keep track of the usability of the room that was reserved in the system. <br/>
+ * This will show all the rooms and its percentage of usage within given time criteria. <br/>
+ * To generate a Room Usablity Report:<br/>
+ *	1.Select a specific date range then,<br/>
+ *	2.Click the <b>Show Result</b> button.<br/>
+ * The Room Usablity Report for the specific date range will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Room Usability Report</b><br/>
+ * \image html RoomUsabilityReport.jpg
+ * <br/><br/>
+ 
+ * <b> Shift Report/Maintenace </b><br/>
+ * <b>A Simple Video Tutorial on How to Generate a Shift Report</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/daopk8bkKDE?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly <br/><br/>
+ * This report prints out the transactions made by type for a specific user on shift. Administrators can print out reports for all users. <br/>
+ * This helps the hotel keep track of the transactions created by users that is in the system. <br/>
+ * This will show a transactions created by specific or all the users within a date range. <br/>
+ * To generate a Shift Report/Maintenace:<br/>
+ *	1.Select a start then,<br/>
+ *	2.Select a date range then,<br/>
+ *	3.Select a user then,<br/>
+ *	4.Click the <b>Go</b> button.<br/>
+ * The Shift Report/Maintenace for the specific date range will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Shift Report/Maintenace</b><br/>
+ * \image html shiftReport.jpg
+ * <br/><br/>
+ 
+  * <b> Tax Report </b><br/>
+ * This report generates the list of created transactions in the system within the specified date which provides the amount, 
+ * tax, service and date they were added. <br/> This helps the hotel keep track of the transactions that was generated in the system.<br/>
+ * This shows all the transactions created, who created and total per currency if applicable within the period. <br/>
+ * To generate a Tax Report:<br/>
+ *	1.Select the date range(From and To) then,<br/>
+ *	2.Click the <b>Show Report</b> button.<br/>
+ * The Tax Report for the specific date range will display.<br/>
+ * To download the file in spreadsheet like excel, just click the <b>Download</b> button.<br/><br/>
+ * <b>The Screenshot for Tax Report</b><br/>
+ * \image html taxReport.jpg
+ * <br/><br/>
+ * <br/><br/>
+  * <br/>
+ * @} 
+ */
+ /**
+  * @}
+  */

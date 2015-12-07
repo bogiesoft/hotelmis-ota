@@ -1,0 +1,29 @@
+<h1> Qua&#777;n ly&#769; ng&#432;&#417;&#768;i du&#768;ng </h1><br/>
+Qu&#7843;n l&#253; cho ng&#432;&#7901;i d&#249;ng th&#234;m / ch&#7881;nh s&#7917;a cho ph&#7847;n m&#7873;m qu&#7843;n l&#253; kh&#225;ch s&#7841;n &#273;a&#803;i ly&#769; du li&#803;ch tr&#432;&#803;c tuy&#234;&#769;n
+<br/>
+<br/>
+<table class="doxtable">
+<tr><th>Li&#771;nh v&#432;&#803;c </th><th>M&#244; ta&#777;</th></tr>
+<tr><td>&#272;&#259;&#803;c ti&#769;nh h&#234;&#803; th&#244;&#769;ng</td><td>T&#7921; &#273;&#7897;ng ph&#226;n b&#7893;</td></tr>
+<tr><td>Nh&#226;&#803;p nga&#768;y</td><td>T&#7921; &#273;&#7897;ng thi&#7871;t l&#7853;p v&#7873; vi&#7879;c b&#7893; sung ng&#432;&#7901;i d&#249;ng</td></tr>
+<tr><td>Ng&#432;&#417;&#768;i du&#768;ng &#273;&#259;ng nh&#226;&#803;p</td><td>T&#234;n &#273;&#259;ng nh&#226;&#803;p</td></tr>
+<tr><td>M&#226;&#803;t kh&#226;&#777;u</td><td></td></tr>
+<tr><td>T&#234;n</td><td></td></tr>
+<tr><td>Ho&#803;</td><td></td></tr>
+<tr><td>&#272;i&#234;&#803;n thoa&#803;i </td><td></td></tr>
+<tr><td>Fax</td><td></td></tr>
+<tr><td>Th&#432; &#273;i&#234;&#803;n t&#432;&#777;</td><td></td></tr>
+<tr><td>&#272;i&#234;&#803;n thoa&#803;i di &#273;&#244;&#803;ng </td><td></td></tr>
+<tr><td colspan=2>c&#225;c quy&#7873;n truy nh&#7853;p</td></tr>
+<tr><td>Qua&#777;n ly&#769;</td><td>Ca&#768;i &#273;&#259;&#803;t kha&#769;ch sa&#803;n</td></tr>
+<tr><td>&#272;&#259;&#803;t ch&#244;&#771;</td><td></td></tr>
+<tr><td>Nh&#226;&#803;n pho&#768;ng</td><td>Kha&#769;ch nh&#226;&#803;n pho&#768;ng va&#768; &#273;&#259;ng ky&#769;</td></tr>
+<tr><td>&#272;a&#803;i ly&#769; </td><td></td></tr>
+<tr><td>Pho&#768;ng</td><td></td></tr>
+<tr><td>Ho&#769;a &#273;&#417;n /phi&#234;&#769;u thu</td><td></td></tr>
+<tr><td>Gi&#769;a</td><td></td></tr>
+<tr><td>Tra c&#432;&#769;u</td><td></td></tr>
+<tr><td>Ba&#769;o ca&#769;o</td><td></td></tr>
+</table>
+
+<br/>

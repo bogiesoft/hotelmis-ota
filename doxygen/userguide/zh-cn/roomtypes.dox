@@ -1,0 +1,17 @@
+/**
+ * @addtogroup ZH-CN-RoomAdmin
+ * @{
+ *
+ * @defgroup ZH-CN-RoomTypes Hotel Room Type Setup 
+ * \htmlinclude zhcn_rmttitle.txt
+ * @{
+ * \htmlinclude zhcn_roomtypes.txt
+ * <br/>
+ * \image html zhcn_room_types.JPG
+ *
+ * 
+ * @} 
+ */
+ /**
+  * @}
+  */

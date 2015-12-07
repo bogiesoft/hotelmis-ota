@@ -1,0 +1,18 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-GuestAdmin Guest Profile Administration 
+ * \htmlinclude ko_gsttitle.txt
+ * @{
+ * \htmlinclude ko_guest1.txt
+ * <br/>
+ * \image html ko_guest_new.JPG
+ * \htmlinclude ko_guest2.txt
+ * <br/>
+ * \image html ko_guest_list.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

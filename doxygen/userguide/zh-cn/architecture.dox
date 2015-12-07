@@ -1,0 +1,11 @@
+/**
+ * @addtogroup ZH-CN-UserGuide
+ * @{
+ *
+ * @addtogroup ZH-CN-Architecture 
+ * 
+ * @{
+ * \htmlinclude zhcn_architecture.txt
+ * @}
+ * @}
+ */

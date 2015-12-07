@@ -1,0 +1,14 @@
+The following files has been changed for english language (hotelmis\doxygen\userguide\en)
+
+billing.dox
+checkin.dox
+guestadmin.dox
+rateadmin.dox
+reservations.dox
+roomadmin.dox
+
+Thses files need to be modified for the other languages.
+
+
+
+

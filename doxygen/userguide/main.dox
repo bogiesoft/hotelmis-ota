@@ -1,0 +1,81 @@
+/**
+ * \mainpage OTA Hotel
+ * \image html enovate_logoWEB.JPG
+ * \copyright e-Novate 2012-2015
+ * The OTA Hotel software is an opensource implementation of a Hotel Inventory Management system. 
+ * This project is for small to medium sized hotels that are looking for a simple inventory management
+ * system, 
+ * This project is listed with Sourceforge and is based upon the original hotelmis project.<br/>
+ * The project has been reworked with 90% of the code being re-written to work with the OTA specification
+ * and the e-Novate Pte Ltd e-Bridge product. <br/>
+ * <br/>
+ * The new version of the project draws part of its name OTA from the Open Travel Alliance OTA
+ * http://www.opentravel.org <br/>
+ * All documentation has been generated using Doxygen. http://www.doxygen.org
+ *
+ *
+ * @defgroup EN English User Guide
+ * This is the English version of the OTA Hotel User Guide;
+ * @{
+ * @}
+ * @defgroup KO Korean  &\#49324;&\#50857;&\#51088; &\#49444;&\#47749;&\#49436; 
+ * @{
+ * @}
+ * @defgroup TH Thai  &\#3648;\&\#3629;\&\#3585;\&\#3626;\&\#3634;\&\#3619;\&\#3607;\&\#3637;\&\#3656;\&\#3651;\&\#3594;\&\#3657;\&\#3611;\&\#3619;\&\#3632;\&\#3585;\&\#3629;\&\#3610; 
+ * @{
+ * @}
+ * @defgroup ZH-CN Simplifed Chinese  \&\#20013;\&\#22269;\&\#65288;\&\#31616;\&\#20307;\&\#65289; 
+ * @{
+ * @}
+ * @defgroup ZH-TW Traditional Chinese  \&\#20013;\&\#22283;\&\#65288;\&\#20659;\&\#32113;\&\#65289;; 
+ * @{
+ * @}
+ * @defgroup VT Vietnamese Vi&#7879;
+ * @{
+ * @}
+ */
+ 
+/** 
+ * @addtogroup EN
+ * @{
+ * @defgroup ENUserGuide User Guide for OTA Hotel
+ * Introduction to OTA Hotel Software
+ * @{
+ * 
+ */
+/** 
+ * @defgroup Architecture Architecture
+ * Introduction to Exchange Order Web Architecture
+ * @{
+ *
+ * @} 
+ */
+/** 
+ * @defgroup Trademarks Trademarks and Copyrights
+ * Trademarks and Copyrights for items referenced in this documentation
+ * @{
+ * \htmlinclude trademarks.txt
+ * @defgroup ebridge e-Novate Pte Ltd software
+ * License for proprietary software supplied by e-Novate Pte Ltd
+ * @{
+ * \htmlinclude EULA.txt
+ * @} 
+ * @defgroup GPL GPL License for OTA Hotel Opensource software
+ * @{
+ * \htmlinclude GPL.txt
+ * @} 
+ * @}
+ */
+/**
+ * @defgroup SystemInstall System Install and Setup
+ * Installation and setup Requirements
+ * @{
+ * 
+ * @} 
+ */
+
+ /**
+ * @}
+ * @} 
+ */
+

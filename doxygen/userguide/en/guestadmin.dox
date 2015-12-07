@@ -1,0 +1,86 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @defgroup GuestAdmin Guest Profile Administration 
+ * Manage Guest profiles stored in the OTA Hotel database.
+ * @{
+ * 
+ * <b>A Simple Video Tutorial on How to Setup an Advance Profile</b><br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/7F9t4LgHS7U?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/><br/>
+
+ * Every reservation and booking requires a guest be associated with the transaction.<br/>
+ * <table>
+ * <tr><th> Field </th><th> Description </th></tr>
+ * <tr><td> Salutation</td><td>First field is prefix or salutation</td></tr>
+ * <tr><td> Gender</td><td>Gender(Male or Female)</td></tr>
+ * <tr><td> Last Name</td><td>Family or Surname</td></tr>
+ * <tr><td> First Name</td><td>First name</td></tr>
+ * <tr><td> Middle Name</td><td>Middle name</td></tr>
+ * <tr><td> Date of Birth</td><td>Date of birth</td></tr>
+ * <tr><td> e-Bridge ID</td><td>Identity on e-Novate e-Bridge for sending marketing material</td></tr>
+ * <tr><td colspan="2"> </td></tr> 
+ * <tr><td colspan="2"> Documents</td></tr>
+ * <tr><td> Document Type</td><td>Selection for type of identification supplied</td></tr>
+ * <tr><td> Document Number</td><td>Identification Number</td></tr>
+ * <tr><td> Valid From</td><td>Start date of validity</td></tr>
+ * <tr><td> Valid To</td><td>End date of validity</td></tr>
+ * <tr><td> Name as on document</td><td>Name that appears on the document or ID</td></tr>
+ * <tr><td> Nationality</td><td>The original country of the guest - may be differenct from identification</td></tr>
+ * <tr><td> Issuing Authority</td><td>The person/authority who issued the document or ID</td></tr>
+ * <tr><td> Issue Location</td><td>The place where it was issued</td></tr>
+ * <tr><td> Issue Country</td><td>The country where it was issued</td></tr>
+ * <tr><td colspan="2"> Phones</td></tr>
+ * <tr><td> Country Code</td><td>Country Code</td></tr>
+ * <tr><td> Area Code</td><td>Area Code</td></tr>
+ * <tr><td> Telephone</td><td>Land line telephone number (home or business)</td></tr>
+ * <tr><td> Extension</td><td>Extension Number</td></tr>
+ * <tr><td> Phone Location Type</td><td>Location type where it is used like office,home,direct,other or company</td></tr>
+ * <tr><td> Phone Usage Type</td><td>The type of usage like contact, emergency, daytime contact or evening contact</td></tr>
+ * <tr><td> Phone Technology Type</td><td>The phone type technology like voice, mobile, fax, pager or Voice over IP</td></tr>
+ * <tr><td colspan="2"> Emails</td></tr>
+ * <tr><td> ID Type</td><td>The ID type (Email or Instant Message)</td></tr>
+ * <tr><td> Email Address Type</td><td>The type of email address(Personal,Business or Company)</td></tr>
+ * <tr><td> Email Address</td><td>The email address</td></tr>
+ * <tr><td> IM Type</td><td>Instant Message type like Skype/MSN or other internet ID(if Email Type is IM)</td></tr>
+ * <tr><td colspan="2"> Addresses</td></tr>
+ * <tr><td> Address Type</td><td>Type of address if contact, mail, permanent or other</td></tr>
+ * <tr><td> Street</td><td>Street include street number</td></tr>
+ * <tr><td> Block/House No</td><td>Block number or house number</td></tr>
+ * <tr><td> Building</td><td>Building Name</td></tr>
+ * <tr><td> Floor</td><td>Floor number</td></tr>
+ * <tr><td> Unit</td><td>Unit number</td></tr>
+ * <tr><td> City</td><td>City name</td></tr>
+ * <tr><td> State</td><td>State name</td></tr>
+ * <tr><td> Country</td><td>Country name</td></tr>
+ * <tr><td> Postcode</td><td>Postal code</td></tr>
+ * <tr><td> Location Type</td><td>Type of location(home, business or other)</td></tr> 
+ * <tr><td colspan="2"> </td></tr> 
+ * <tr><td> Comments</td><td>Comments or special instructions</td></tr>
+ * </table>
+ * <b> Guests Information </b><br/>
+ * \image html guest_admin.JPG
+ * 
+ * <br/>
+ * <b> Guests List </b><br/>
+ * <br/>
+ * Guests can be searched by name, identification number local or passport, email address or phone number.<br/>
+ * Select the magnifying class icon to view/edit the guest.<br/>
+ * <br/>
+ * \image html guest_list.JPG
+ * 
+ * <br/>
+ * <b> Guest View/Edit</b><br/>
+ * Selecting the <b>Guests Check-In</b> button will go to the <b>"Guests Check In"</b> page.<br/>
+ * Selecting the <b>Guests Reservation</b> button will go to the <b>"Reservations"</b> page.<br/>
+ * <br/>
+ * \image html guest_edit.JPG
+ * 
+ * @} 
+ */
+/**
+ * @}
+ */

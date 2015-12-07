@@ -1,0 +1,22 @@
+<h1>Qua&#777;n ly&#769; &#273;a&#803;i ly&#769; du li&#803;ch </h1><br/>
+<br/>
+C&#225;c m&#224;n h&#236;nh xem / c&#7853;p nh&#7853;t cho c&#225;c c&#417; quan du l&#7883;ch<br/>
+<br/>
+<table class="doxtable">
+<tr><th> Li&#771;nh v&#432;&#803;c </th><th>M&#244; ta&#777; </th></tr>
+<tr><td>S&#244;&#769; &#273;a&#803;i ly&#769;</td><td>IATA ho&#7863;c s&#7889; doanh nghi&#7879;p duy nh&#7845;t &#273;&#432;&#7907;c giao &#273;&#7841;i l&#253; </td></tr>
+<tr><td>T&#234;n &#273;a&#803;i ly&#769;</td><td>T&#234;n &#273;a&#803;i ly&#769; kinh doanh</td></tr>
+<tr><td>T&#234;n li&#234;n la&#803;c</td><td>Ng&#432;&#417;&#768;i co&#769; th&#234;&#777; li&#234;n la&#803;c ta&#803;i &#273;a&#803;i ly&#769;</td></tr>
+<tr><td>&#272;i&#234;&#803;n thoa&#803;i</td><td></td></tr>
+<tr><td>Fax</td><td></td></tr>
+<tr><td>Ma&#771; c&#226;&#768;u n&#244;&#769;i &#273;i&#234;&#803;n t&#432;&#777;</td><td>Ma&#771; c&#226;&#768;u n&#244;&#769;i li&#234;n la&#803;c &#273;i&#234;&#803;n t&#432;&#777;</td></tr>
+<tr><td>Tin nh&#259;&#769;n t&#432;&#769;c th&#417;&#768;i</td><td>Tin nh&#259;&#769;n t&#432;&#769;c th&#417;&#768;i hay ma&#771; nh&#259;&#769;n tin</td></tr>
+<tr><td>Th&#432; &#273;i&#234;&#803;n t&#432;&#777;</td><td></td></tr>
+<tr><td>&#272;i&#803;a chi&#777; th&#432; ti&#769;n</td><td>&#272;i&#803;a chi&#777; b&#432;u chi&#769;nh cho th&#432;</td></tr>
+<tr><td>Tha&#768;nh ph&#244;&#769;</td><td></td></tr>
+<tr><td>Qu&#244;&#769;c gia</td><td></td></tr>
+<tr><td>Ma&#771; vu&#768;ng</td><td></td></tr>
+<tr><td>To&#768;a nha&#768;</td><td>Tu&#768;y cho&#803;n</td></tr>
+<tr><td>&#272;&#432;&#417;&#768;ng ph&#244;&#769;</td><td>&#272;i&#803;a chi&#777; &#273;&#432;&#417;&#768;ng ph&#244;&#769; kha&#769;c</td></tr>
+</table>
+<br/>

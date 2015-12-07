@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['date_5fto_5fdbformat',['date_to_dbformat',['../d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga6d375b5d6a8477bf4608c1092a88165d',1,'queryfunctions.php']]],
+  ['delete_5fallpolicy',['delete_allpolicy',['../d2/d62/functions_8php.html#a6f7b09fbecd8f6c28ca2e277955dc017',1,'functions.php']]],
+  ['delete_5fbilling',['delete_billing',['../dc/d70/group___i_n_v_o_i_c_e___m_a_n_a_g_e_m_e_n_t.html#gabd5c12ec96e30573be3d3ec356b6f53d',1,'functions.php']]],
+  ['delete_5fcopy',['delete_copy',['../d2/d62/functions_8php.html#a53b4ea179e733cd58fab77d92738960c',1,'functions.php']]],
+  ['delete_5fguest',['delete_guest',['../d8/d24/group___g_u_e_s_t___m_a_n_a_g_e_m_e_n_t.html#ga11ffc3feeb00e692d35eb793eb9183db',1,'functions.php']]],
+  ['delete_5fhotelgallery',['delete_hotelgallery',['../d2/d62/functions_8php.html#a652308dbf02a650f70afbe6b3a4feb37',1,'functions.php']]],
+  ['delete_5fpolicybyid',['delete_policybyid',['../d2/d62/functions_8php.html#aa67ae1d773b75f883b560fa8ea397e1d',1,'functions.php']]],
+  ['delete_5frateitem',['delete_rateitem',['../d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#ga4ad232eb5890cd8ac9308d0763622935',1,'functions.php']]],
+  ['delete_5frateroomtypes',['delete_rateroomtypes',['../d8/d75/group___r_a_t_e___m_a_n_a_g_e_m_e_n_t.html#gaa485dd563216baefe5a23ebfb497afea',1,'functions.php']]],
+  ['delete_5fresdetails',['delete_resdetails',['../d2/d62/functions_8php.html#a7212b6d00c4e7470e017fca76013c4fb',1,'functions.php']]],
+  ['delete_5froomamenities',['delete_roomamenities',['../d4/d15/group___r_o_o_m___m_a_n_a_g_e_m_e_n_t.html#gaf17e2fcd289793c24444f2b2087c68d6',1,'functions.php']]],
+  ['delete_5froomtype',['delete_roomtype',['../d8/d24/group___g_u_e_s_t___m_a_n_a_g_e_m_e_n_t.html#ga01f20b496b2aa819fab89e160f2a49ea',1,'functions.php']]],
+  ['delete_5fuser',['delete_user',['../d2/d49/group___u_s_e_r___m_a_n_a_g_e_m_e_n_t.html#gafa0b4c4518520fd5d5e86a1104316c67',1,'functions.php']]],
+  ['delholidaybyid',['delHolidayByID',['../d2/d62/functions_8php.html#abbad7bec0a57d389e309c5d1b61f42cc',1,'functions.php']]],
+  ['disconnect_5fhotel_5fdb',['disconnect_Hotel_db',['../d4/d28/group___d_a_t_a_b_a_s_e___m_a_n_a_g_e_m_e_n_t.html#ga51b6a90ec0403ae122bdfd636732dd14',1,'queryfunctions.php']]],
+  ['displayerrors',['displayErrors',['../de/dc0/classform_validator.html#a8a5843612b790f4588cd7f2b790d7613',1,'formValidator']]]
+];

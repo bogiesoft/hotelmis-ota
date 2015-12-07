@@ -1,0 +1,20 @@
+/**
+ * @addtogroup KO-UserGuide
+ * @{
+ *
+ * @defgroup KO-InvoiceAdmin Billing/Invoice Administration
+ * \htmlinclude ko_billtitle.txt
+ * @{
+ * \htmlinclude ko_bill1.txt
+ * <br/>
+ * \image html ko_billing.JPG
+ * <br/>
+ * \htmlinclude ko_bill2.txt
+ * <br/>
+ *
+ * \image html ko_billing_edit.JPG
+ * @} 
+ */
+ /**
+  * @}
+  */

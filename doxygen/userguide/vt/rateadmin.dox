@@ -1,0 +1,31 @@
+/**
+ * @addtogroup VT-UserGuide
+ * @{
+ *
+ * @defgroup VT-RateAdmin Rate Administration 
+ * \htmlinclude vt_ratetitle.txt
+ *
+ * @{
+ *
+ * \htmlinclude vt_rates1.txt
+ *
+ * \image html vt_rates_admin.JPG
+ * <br/>
+ * \image html vt_rates_new.JPG
+ *
+ * \htmlinclude vt_rates2.txt
+ *
+ * \image html vt_rates_items.JPG
+ *
+ * \htmlinclude vt_rates3.txt
+ *
+ * \image html vt_rates_list.JPG
+ *
+ * \htmlinclude vt_rates4.txt
+ *
+ * \image html vt_rates_std.JPG
+ * @} 
+ */
+/**
+ * @}
+ */

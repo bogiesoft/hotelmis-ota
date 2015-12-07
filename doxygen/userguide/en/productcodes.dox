@@ -1,0 +1,30 @@
+/**
+ * @addtogroup ENUserGuide
+ * @{
+ *
+ * @addtogroup HotelAdmin
+ * @{
+ * @defgroup ProductAdmin Hotel Product/Service Administration 
+ *
+ * Manage list of products and services supplied by the hotel.<br/>
+ * <b>A Simple Video Tutorial on How to Setup a Product Code</b>
+ * <br/>
+ * \htmlonly
+ * <iframe width="640" height="390" src="http://www.youtube.com/embed/kkNbf-6Zke0?rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+ * \endhtmlonly
+ * <br/>
+ * These are items used in the invoice to add other charges like breakfast, laundry, cancellation fee and others. <br/>
+ * Once an Invoice Item is added here, it will appear as option in the invoice as an Item or Product Item. <br/><br/>
+ * 
+ * @{
+ * \image html product_codes.JPG
+ * 
+ * <br/>
+ *
+ * @} 
+ * @} 
+ */
+/**
+ * Every reservation and booking requires a guest be associated with the transaction.
+ * @}
+ */
